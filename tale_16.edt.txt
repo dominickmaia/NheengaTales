@@ -1,0 +1,39 @@
+# title_orig = MICURA	IAUARATÉ
+# title_por_orig = A raposa e	onça
+
+# sent_id = Magalhaes1876:16:1:425
+# text_orig = Iauaraté	ocẽma	ramé	quára	çui,	onhehẽ:	— Cuhɨre	xa	çộ	xa	u	mɨcura.
+# text_por_gloss = A onça	saiu	quando	cova	da,	disse:	— Agora	eu	vou	eu	comer	a raposa.
+
+# sent_id = Magalhaes1876:16:2:426
+# text_orig = Oçộ	ockári	ahé.
+# text_por_gloss = Foi	procurar	ela.
+
+# sent_id = Magalhaes1876:16:3:427
+# text_orig = Ouatá	oikộ	cahá	rupí,	ocenõ	teapú	quaié:	Txáu!	txáu!	txáu!
+# text_por_gloss = Andando	estava	mato	pelo,	ouviu	barulho	assim:	Txau!	txau!	txau!
+
+# sent_id = Magalhaes1876:16:4:428
+# text_orig = — Mãháta	ahé?
+# text_por_gloss = — O que	será?
+
+# sent_id = Magalhaes1876:16:5:429
+# text_orig = Omãhã,	oxipiá	mɨcúra	oiuúca	oikộ	xipó	uahá.
+# text_por_gloss = Olhou,	e viu	a raposa	tirando	estava	cipó	que.
+
+# sent_id = Magalhaes1876:16:6:430
+# text_orig = Mɨcúra	oxipiá	ramé	ahé,	onhehẽ:	— Cuhɨre	puxiãna	xa	ikộ;	iauáraté,	ipộ,	óú curi ixệ!
+# text_por_gloss = A raposa	viu	quando	ela,	disse:	— Agora	mal	eu	estou;	a onça,	pode ser,	comer-me-á!
+
+# sent_id = Magalhaes1876:16:7:431
+# text_orig = Onhehẽ	iauáraté	çupé:	— Iuɨtú-aɨua	oúri	oikộ;	indệ	rẹpɨtimũ	ixệ será	oiuúca	arãma	quahá	xipó,	opuquári	arãma	ixệ	mɨrá	rẹcệ?
+# text_por_gloss = Disse	onça	a:	— Furacão	vindo	está;	tu	ajudas	a mim	tirar	a	este	cipó,	amarrar	para	eu	árvore	sobre?
+
+# sent_id = Magalhaes1876:16:8:432
+# text_orig = Iauaraté	ocẽkɨɨé	ãna,	onhehẽ	mɨcura	çupé:	— Aramé	rẹpueuári	ixệ	tenoné;	maharẹcệ	ixệ	turuçú	píre	nẹ	çuí,	ɨuɨtúaɨua	oraçộ	quáu	ixệ	tenoné.
+# text_por_gloss = A onça	medrosa	já,	disse	raposa	a:	— Então	amarra	me	primeiro;	porque	eu	grande	mais	você	do que,	o furacão	levar	pode	eu	adiante.
+
+# sent_id = Magalhaes1876:16:9:433
+# text_orig = Mɨcúra	omunú	iauaraté	oiumãna	mirá	rẹcệ,	oiupucuári	ahé,	onhehẽ:	— Repɨtá	ápe,	iurupári,	xa	çộ	ãna.
+# text_por_gloss = A raposa	mandou	a onça	abraçar	árvore	com,	amarrou	ela,	e disse:	— Fica-te	aí,	diabo,	que	eu	cá me vou.
+

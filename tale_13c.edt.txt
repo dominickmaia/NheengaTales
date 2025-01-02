@@ -1,0 +1,67 @@
+# title_orig = CUNHÃ MUCU	OÇO	UAHÁ	OCICÁRI	MENA
+# title_por_orig = A moça	vai	que	procurar	marido
+
+# sent_id = Magalhaes1876:13c:1:376
+# text_orig = CUNHÃ MUCU	INAIÉ
+# text_por_gloss = A moça	e o gavião
+
+# sent_id = Magalhaes1876:13c:2:377
+# text_orig = Ahé	ocɨka	ramé	rauçapɨre	pé	upé,	oçộ	amú	rupí.
+# text_por_gloss = Ela	chegou	quando	três	caminhos	em,	foi	outro	por.
+
+# sent_id = Magalhaes1876:13c:3:378
+# text_orig = Ocɨka	óca	upé,	omahã	iepé	uáimĩ	purãnga	rẹtệ,	opurauú	ixuí:	— Inệ	inaié	cɨ será?
+# text_por_gloss = Chegou	casa	em,	viu	uma	velha	formosa	muito,	perguntou	a ela:	— Você é	do inajé	a mãe?
+
+# sent_id = Magalhaes1876:13c:4:379
+# text_orig = Uáimĩ	oçuaxára:	— Ixệ	ahé	tenhẽ.
+# text_por_gloss = A velha	respondeu:	— Eu sou	ela	mesma.
+
+# sent_id = Magalhaes1876:13c:5:380
+# text_orig = Cunhã mucú	onhehẽ:	— Xa	iúre	ahé	pɨre,	xa	mendári	arãma	ahé	irúmo.
+# text_por_gloss = A moça	disse:	— Eu	venho	ele	a,	eu	casar	para	ele	com.
+
+# sent_id = Magalhaes1876:13c:6:381
+# text_orig = Uáimĩ	onhehẽ:	— Xa	çộ xa	uímimi	indệ;	cệ	embɨra	míra	puxí	rẹtệ.
+# text_por_gloss = A velha	disse:	— Eu	vou	esconder	você,	meu	filho	gente é	brava	muito.
+
+# sent_id = Magalhaes1876:13c:7:382
+# text_orig = Caárúka	ramé,	embɨra	ocɨka,	orúri	ximiára	cệtá:	uirá	mirĩtá,	I	cɨ	omungaturú	uirá	mirĩtá	aitá	óú	arãma.
+# text_por_gloss = Tarde	em,	seu filho	chegou,	trouxe	caça	muita:	pássaros	pequenos,	Sua	mãe	aprontou	pássaros	pequenos,	eles	comerem	para.
+
+# sent_id = Magalhaes1876:13c:8:383
+# text_orig = Aitá	óú	oikộ	ramé	i	cɨ	opuranú	ixuí:	— Auá çupé	ocɨka	uahá	ramẽ,	amú	tetãma	çuí,	mãháta	rẹmunhã	ixupé?
+# text_por_gloss = Eles	comendo	estavam	quando	sua	mãe	perguntou	a ele:	— A quem	chegar	que	quando,	outra	pátria	de,	 o que	farás	a ele?
+
+# sent_id = Magalhaes1876:13c:9:384
+# text_orig = Inaié	oçuaxára:	— Xa	cẹnõĩ	ahé	óú	arãma	ianệ	irúmo.
+# text_por_gloss = O inajé	respondeu:	— Eu	chamo	ele	comer	para	nós	com.
+
+# sent_id = Magalhaes1876:13c:10:385
+# text_orig = Aramé	uáimĩ	ocenộɨ	cunhã mucú.
+# text_por_gloss = Então	a velha	chamou	a moça.
+
+# sent_id = Magalhaes1876:13c:11:386
+# text_orig = Inaié	çộrí	rẹtệ,	cunhã mucú	purãnga	rẹte	 rẹcệ.
+# text_por_gloss = O inajé	alegre	ficou muito,	a moça	era bonita	muito	porque.
+
+# sent_id = Magalhaes1876:13c:12:387
+# text_orig = Aitá	okệri uãna	iépeuaçú.
+# text_por_gloss = Eles	dormiram	juntos.
+
+# sent_id = Magalhaes1876:13c:13:388
+# text_orig = Amú	ára	upé	urubú	ocɨka	inaié	óca	upé,	ocicári	arãma	cunhã mucú.
+# text_por_gloss = Outro	dia	em	o corvo	chegou	do inajé	casa	em,	procurar	para	a moça.
+
+# sent_id = Magalhaes1876:13c:14:389
+# text_orig = Aitá	omuramunhã uãna	rẹtệ	cunhã múcú	rẹcệ.
+# text_por_gloss = Eles	brigaram	muito	da moça	por causa.
+
+# sent_id = Magalhaes1876:13c:15:390
+# text_orig = Inaié	ompúca ãna	urubú	akãnga.
+# text_por_gloss = O inajé	quebrou	do urubu	a cabeça.
+
+# sent_id = Magalhaes1876:13c:16:391
+# text_orig = I	cɨ	omuacú uãna	ɨ,	muiáçúca	i	akãnga;	ɨ	çacú	rẹtệ uãna:	aárẹcệ	i	akãnga	çáuaɨma	opɨtá	opaɨ	ára	upé.
+# text_por_gloss = Sua	mãe (do urubu)	esquentou	água,	lavou	sua	cabeça;	água	quente estava	muitíssimo:	por isso	sua	cabeça	depenada	ficou	todo	tempo	em (para sempre).
+

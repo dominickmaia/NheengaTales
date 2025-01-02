@@ -1,0 +1,31 @@
+# title_orig = IAUARAETÉ	OPIRI	MICURA	RAPE
+# title_por_orig = A onça	varre	da raposa	o caminho
+
+# sent_id = Magalhaes1876:18:1:439
+# text_orig = Nẹ	rũaĩãna	omunhã	ramé	iepé	mahã,	onhehẽ	nẹ	catuçáua	arãma	uahá,	indệ	nẹ	rẹiacú.
+# text_por_gloss = Teu	inimigo	fizer	se	uma	coisa,	e disser	teu	benefício	para	que foi,	tu	te	arrisques.
+
+# sent_id = Magalhaes1876:18:2:440
+# text_orig = Mɨcúra,	ocekɨié,	ouatá	pitúna	ramé	anhũ.
+# text_por_gloss = A raposa,	de medo,	andava	noite	durante	somente.
+
+# sent_id = Magalhaes1876:18:3:441
+# text_orig = Iauaraté	opiíri	mɨcúra	rapé,	omunhã	iepé	iuçậna,	oiúmími.
+# text_por_gloss = A onça	varreu	da raposa	o caminho,	fez	um	laço,	e escondeu-se.
+
+# sent_id = Magalhaes1876:18:4:442
+# text_orig = Mɨcúra	ocɨka	ramé,	iauaraté	onhehẽ	ixupé:	— Xa	piíri ãna	ianệ	rapé	iú	rẹcệ.
+# text_por_gloss = A raposa	chegou	quando,	a onça	disse	lhe:	— Eu	varri	nosso	caminho	espinhos	por causa.
+
+# sent_id = Magalhaes1876:18:5:443
+# text_orig = Mɨcúra	iacú,	onhehẽ:	— Aramé	rẹçộ	tenoné.
+# text_por_gloss = A raposa,	arisca,	disse:	— Então	vá	adiante.
+
+# sent_id = Magalhaes1876:18:6:444
+# text_orig = Iauaraté	oçaçáu	ramé,	iuçậna	opetệca.
+# text_por_gloss = A onça	passou	quando,	o laço	bateu.
+
+# sent_id = Magalhaes1876:18:7:445
+# text_orig = Mɨcúra	opúri ãna	cacaquệra	kẹtệ,	oiáuáu.
+# text_por_gloss = A raposa	pulou	atrás	para,	e fugiu.
+

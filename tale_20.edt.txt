@@ -1,0 +1,31 @@
+# title_orig = MICURA	IAUARETÉ
+# title_por_orig = A raposa e	a onça
+
+# sent_id = Magalhaes1876:20:1:462
+# text_orig = Mɨcúra	iuɨri	ɨ	ceí	ãna	oikộ.
+# text_por_gloss = A raposa	de novo	com	sede	já	estava.
+
+# sent_id = Magalhaes1876:20:2:463
+# text_orig = Opetệca	iepé	cumã	ɨua,	oiumutuúma	rẹtệ	cicaãtã	cumã ɨua	rẹcệ,	oierệ ierệo	cahá	xiríca	rẹcệ,	oçộ	ɨ	quára	kẹtệ.
+# text_por_gloss = Bateu	uma	de sorva	árvore,	besuntou-se	bem	resina de	sorveira	com,	e espojou-se	folhas	secas	em,	e foi	da água	poço	a.
+
+# sent_id = Magalhaes1876:20:3:464
+# text_orig = Iauaraté	oxipía	ramé	nhahã	çoộ,	onhehẽ:	— Auáta	indệ?
+# text_por_gloss = A onça	viu	quando	aquele	animal,	disse:	— Quem é	você?
+
+# sent_id = Magalhaes1876:20:4:465
+# text_orig = —	Ixệ	çọộ	cahá	xiríca.
+# text_por_gloss = —	Eu sou	o bicho	folha	seca.
+
+# sent_id = Magalhaes1876:20:5:466
+# text_orig = Iauaraté	onhehẽ:	— Rẹ	ú	tenoné,	repúri	ɨ	pupé,	xa	mahã	arãma	intí	uíri	ramé	nẹ	pirệra.
+# text_por_gloss = A onça	disse:	— De	beber	antes,	tu pules	d'água	dentro,	eu	ver	para	não	boia	se	teu	couro.
+
+# sent_id = Magalhaes1876:20:6:467
+# text_orig = Ahé	opúri ãna;	i	pirệra	intí	uíri ãna,	cecệ;	cicãtã	intí	oiüticú	ɨ	pupé.
+# text_por_gloss = Ela	pulou;	seu	couro	não	boiou,	porque	resina	não	se derreteu	dágua	dentro.
+
+# sent_id = Magalhaes1876:20:7:468
+# text_orig = Iaué	tenhẽ	mɨcúra	óú	quáu	ɨ,	amãna	ára	ocɨka	catú	ramệ.
+# text_por_gloss = Dessa	forma	a raposa	beber	pôde	água,	da chuva	o tempo	chegou	até	quando.
+

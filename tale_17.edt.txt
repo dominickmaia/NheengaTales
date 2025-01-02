@@ -1,0 +1,23 @@
+# title_orig = JAUARATE'	CUPII'
+# title_por_orig = A onça	e os Cupins
+
+# sent_id = Magalhaes1876:17:1:434
+# text_orig = A'ra	pucũ	riré,	cupií itá	ourí ãna	mamé	iauaraté	oiupucuári	uahá	oikộ,	oiupirú ãna	omunhã	çóca	xipó	rẹcệ.
+# text_por_gloss = Tempo	longo	depois,	os cupins	vieram	onde	a onça	amarrada	que	estava,	principiaram a	fazer	sua casa	cipó	sobre.
+
+# sent_id = Magalhaes1876:17:2:435
+# text_orig = Iauaraté	onhehẽ:	— Ah!
+# text_por_gloss = A onça	disse:	— Ah!
+
+# sent_id = Magalhaes1876:17:3:436
+# text_orig = Cupií,	penhẽ	pe apgáua	ramé curí,	pẹuãna	curutện	quahá	xipó,	oiumupucuári	ixệ	arãma.
+# text_por_gloss = Cupins,	vocês	machos	se fossem,	comiam	depressa	este	cipó,	desamarrar	eu	para.
+
+# sent_id = Magalhaes1876:17:4:437
+# text_orig = A'ra	pitúna	pucuçáua	cupií-itá	oçuú	çuú	xipó.
+# text_por_gloss = Do dia	e da noite	o espaço	os cupins	roendo	estavam	o cipó.
+
+# sent_id = Magalhaes1876:17:5:438
+# text_orig = Iauaraté	océma	ramé,	óúãna	opaɨ	aitá.
+# text_por_gloss = A onça	saiu	quando,	comeu	todos	eles.
+

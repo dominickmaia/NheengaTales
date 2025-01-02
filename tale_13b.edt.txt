@@ -1,0 +1,51 @@
+# title_orig = CUNHÃ MUCU	OÇO	UAHÁ	OCICÁRI	MENA
+# title_por_orig = A moça	vai	que	procurar	marido
+
+# sent_id = Magalhaes1876:13b:1:364
+# text_orig = CUNHÃ MUCU	URUBU
+# text_por_gloss = A moça	e o corvo
+
+# sent_id = Magalhaes1876:13b:2:365
+# text_orig = Ocɨka	muçapɨra	pé	upé,	oçộ	amú	rupí,	ocɨka	ộca	upé,	oiiúanti	amú	uáimĩ	irúmo,	opuranú	ixuí:	— Indẹ	será	inaié	cɨ?
+# text_por_gloss = Chegou	trệs	caminhos	em,	e seguiu	outro	por,	chegou	casa	em,	encontrou	outra	velha	com,	perguntou	a ela:	— Tu	és	do inajé	mãe?
+
+# sent_id = Magalhaes1876:13b:3:366
+# text_orig = Uáimĩ	oçuaxára:	— Ixệ	ahé	tenhẽ.
+# text_por_gloss = A velha	respondeu:	— Eu sou	ela	mesmo.
+
+# sent_id = Magalhaes1876:13b:4:367
+# text_orig = Cunhã mucú	onhehẽ:	— Xa	iúre	ahé	pɨre,	xa	mendári	arãma	ahé	irúmo.
+# text_por_gloss = A moça	disse:	— Eu	venho	ele	a,	eu	casar	para	ele	com.
+
+# sent_id = Magalhaes1876:13b:5:368
+# text_orig = Uáimĩ	onhehẽ:	— Xa	çộ	xa	iúmími	indệ,	cẹ	embɨra	míra	puxí	rẹtệ	rẹcệ.
+# text_por_gloss = A velha	disse:	— Eu	vou	eu	esconder	vocệ,	meu	filho	gente	brava	é muito	porque.
+
+# sent_id = Magalhaes1876:13b:6:369
+# text_orig = Quahá	uáimĩ	urubú	cɨ.
+# text_por_gloss = Esta	velha	era do corvo	a mãe.
+
+# sent_id = Magalhaes1876:13b:7:370
+# text_orig = Caarúka	ramé	i	embɨra	ocíka,	orúri	ximiára:	itápurú	mirĩitá;	onhehẽ	i	cɨ	çupé:	— Kuçukúi	pirá	mirĩtá,	cẹ	cɨ.
+# text_por_gloss = Tarde	em	seu	filho	chegou,	trouxe	sua caça:	vermes	pequenos;	disse	sua	mãe	a:	— Eis aqui	peixes	pequenos,	minha	mãe.
+
+# sent_id = Magalhaes1876:13b:8:371
+# text_orig = I	cɨ	omungaturú	ximiára;	aitá	óú	oikộ	ramé,	ahé	opuranú:	— Auá çupé	ocɨka	uahá	amú	tẹtãma çuí,	mãháta	rẹmunhã	ixupé?
+# text_por_gloss = Sua	mãe	aprontou	a caça;	eles	comendo	estavam	quando,	ela	perguntou:	— A quem	chegar	que	de outra	pátria,	o que	tu farás	ele a?
+
+# sent_id = Magalhaes1876:13b:9:372
+# text_orig = Urubú	oçuaxára:	— Xa	cenõĩ	ahé	óú	arãma	ianệ	irúmo.
+# text_por_gloss = O corvo	respondeu:	— Eu	chamava	ele	comer	para	nós	com.
+
+# sent_id = Magalhaes1876:13b:10:373
+# text_orig = Aramé	i	cɨ	ocenõĩ	cunhã mucú:	urubú	çộrí	rẹtệ ãna,	cunhã mucú	purãnga	rẹtệ	rẹcệ.
+# text_por_gloss = Então	sua	mãe	chamou	a moça;	o corvo	estava alegre	muito,	a moça	formosa	era muito	porque.
+
+# sent_id = Magalhaes1876:13b:11:374
+# text_orig = Pitúna	upé,	ahé	oçộ	ramé	oienõ	ahé	irúmo,	cunhã mucú	ompú ãna,	inẽma	recé	ahé.
+# text_por_gloss = Noite	em,	ele	foi	quando	deitar-se	ela	com,	a moça	o enxotou,	catinguento	porque	era ele.
+
+# sent_id = Magalhaes1876:13b:12:375
+# text_orig = Amú	coẽma	upé,	uáimĩ	omundú	ramé	cunhã mucú	oiuúca	arãma	iapẹá,	cunhã mucú	oiuauáu uãna.
+# text_por_gloss = Outra	manhã	em,	a velha	mandou	quando	a moça	tirar	para	lenha,	a moça	fugiu.
+

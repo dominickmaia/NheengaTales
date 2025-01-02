@@ -1,0 +1,55 @@
+# title_orig = IAUTI	AMU	IAUARAETE
+# title_por_orig = O jabuti	e outra	onça
+
+# sent_id = Magalhaes1876:07:1:162
+# text_orig = Amú	iauaraẹtệ	oiapɨçáca,	oúri	iáutí	píri,	opuranú	ixupé: — Mãhí	catú	tahá	rẹpeiú	nẹ	mɨm mɨm!
+# text_por_gloss = Outra	onça	ouviu	e veio	jabuti	ao,	perguntou	a ele: — Como	bem	que	tocas	tua	flauta!
+
+# sent_id = Magalhaes1876:07:2:163
+# text_orig = Iáutí	oçuaxára: — Xa	pẹiú	cẹrẹmmẹmɨm	quaiệ:	Çuaçú	cãuệra	cệrẹmẹmɨm	ɨ!	ɨ!
+# text_por_gloss = O jabuti	respondeu: — Eu	toco	minha flauta	assim:	Do veado	o osso	e minha flauta,	ih!	ih!
+
+# sent_id = Magalhaes1876:07:3:164
+# text_orig = Iauaraẹtệ	onhehẽ: — Intí	nungára	quaié	xa	cenõ	rẹpẹiú.
+# text_por_gloss = A onça	disse: — A modo	que não foi	assim que	eu	ouvi	você tocar.
+
+# sent_id = Magalhaes1876:07:4:165
+# text_orig = Iáutí	oçuaxára: — Rẹtɨrɨca	mi	kẹtệ	xinga;	apecatú	çuí	rẹapɨçáka	purãnga	pɨre.
+# text_por_gloss = O jabuti	respondeu: — Afasta-te	de	aqui	um pouco;	de longe		escutarás	bonito	mais.
+
+# sent_id = Magalhaes1876:07:5:166
+# text_orig = Iáutí	ocɨcári	quára	opɨtá	i	okẹna	upé,	opejú	i	mẹmɨm: — Iauarẹtệ	cãuệra	çẹrẹmẹmɨm	ɨ!	ɨ!
+# text_por_gloss = O jabuti	procurou	um buraco	pộs-se	sua	porta	na,	e tocou	sua	flauta: — Da onça	o osso	é minha flauta	ih!	ih!
+
+# sent_id = Magalhaes1876:07:6:167
+# text_orig = Iuarẹtệ	ocenõ	ramé,	ũiãna	opɨcɨka	arãma	ahé;
+# text_por_gloss = A onça	ouviu	quando	correu	agarrar	para	ele;
+
+# sent_id = Magalhaes1876:07:7:168
+# text_orig = Iáutí	ouimunệo	ɨuɨquára	rupí.
+# text_por_gloss = O jabuti	meteu-se	do chão buraco	pelo.
+
+# sent_id = Magalhaes1876:07:8:169
+# text_orig = Iuarẹtệ	omunệo	i	pó,	opɨcɨka	nhúm	cẹ	timan	rẹcệ.
+# text_por_gloss = A onça	meteu	dela	a mão,	agarrou	apenas	dele	a perna	sobre.
+
+# sent_id = Magalhaes1876:07:9:170
+# text_orig = Iáutí	opucá	onhehẽ: — Maité	opɨcɨka	cẹ	retimận	opɨcɨka	nhúm	mɨrá	rapú!
+# text_por_gloss = O jabuti	deu uma risada	e disse: — Pensou	que agarrou	minha	perna	e agarrou	apenas	de pau	raiz!
+
+# sent_id = Magalhaes1876:07:10:171
+# text_orig = Iauarẹtệ	quaiệ	onhehẽ: — Tenupá	oikộ.
+# text_por_gloss = A onça	assim	disse: — Deixa	estar.
+
+# sent_id = Magalhaes1876:07:11:172
+# text_orig = Oxári	iáutí	retiman.
+# text_por_gloss = Largou	do  jabuti	a perna.
+
+# sent_id = Magalhaes1876:07:12:173
+# text_orig = Iáutí	opucá	mucộĩ	uệ,	onhehẽ: — Cẹ	retimã	tenhẽ,	iepé.
+# text_por_gloss = O jabuti	riu-se	segunda	vez,	e disse: — Minha	perna era	mesmo,	porém.
+
+# sent_id = Magalhaes1876:07:13:174
+# text_orig = Iauarẹtệ	aquaɨma	uaçú	oçarú	até	omanõ.
+# text_por_gloss = A onça	tola	grande	esperou	até	morrer.
+

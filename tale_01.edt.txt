@@ -1,0 +1,175 @@
+# title_orig = MAI	PITUNA	OIUQUAU ÃNA
+# title_por_orig = Como	a noite	apareceu
+
+# sent_id = Magalhaes1876:01:1:1
+# text_orig = Iupirungáua	ramé	intimahã	pitúna;	ára	anhũ	opaĩ	ára	opé.
+# text_por_gloss = O princípio	durante	não havia	noite;	dia	somente	todo	tempo	em.
+
+# sent_id = Magalhaes1876:01:2:2
+# text_orig = Pitúna	okệri	oikộ	ɨ	rɨpɨpe.
+# text_por_gloss = A noite	adormecida	está	da água	no fundo.
+
+# sent_id = Magalhaes1876:01:3:3
+# text_orig = Intimahã	cọộtá;	opaĩ	mahã	onhehẽ.
+# text_por_gloss = Não havia	animais;	todas	as coisas	falavam.
+
+# sent_id = Magalhaes1876:01:4:4
+# text_orig = Boia-Uaçú	menbɨra,	ipahá,	oiumendári	iepé	kurumĩ-uaçú	irúmo.
+# text_por_gloss = Da Cobra Grande	a filha,	contam,	casara-se	um	jovem	com.
+
+# sent_id = Magalhaes1876:01:5:5
+# text_orig = Quahá	kurumi-uaçú	orekộ	muçapíra	miaçúa	catú rẹtệ.
+# text_por_gloss = Este	jovem	tinha	três	vassalos	fiéis.
+
+# sent_id = Magalhaes1876:01:6:6
+# text_orig = Oiepé	ára	upé	ocenõĩ	muçapɨra	miaçúa,	onhehẽ aitá çupé:	— Pecõĩ	peuatá;	cerẹmirẹcó	intí	okệri	putári	cẹ	irúmo.
+# text_por_gloss = Um	dia	em	chamou	os três	vassalos,	disse-lhes:	— Ide	passear;	minha mulher	não	dormir	quer	eu	com.
+
+# sent_id = Magalhaes1876:01:7:7
+# text_orig = Miaçúa	oçọ-ãna.
+# text_por_gloss = Os vassalos	foram-se.
+
+# sent_id = Magalhaes1876:01:8:8
+# text_orig = Aramé	ahé	ocẹnõĩ	xẹmirẹcó	okéri	arãma	ahé	irúmo.
+# text_por_gloss = Então	ele	chamou	sua mulher	dormir	para	ele	com.
+
+# sent_id = Magalhaes1876:01:9:9
+# text_orig = Xẹmirẹcó	oçuaxára:	— Intí raĩ	pitúna.
+# text_por_gloss = Sua mulher	respondeu:	— Ainda não é	noite.
+
+# sent_id = Magalhaes1876:01:10:10
+# text_orig = — Intimahã	pitúna;	ára	ãnhũ.
+# text_por_gloss = — Não há	noite;	dia há	somente.
+
+# sent_id = Magalhaes1876:01:11:11
+# text_orig = — Cẹ	rúba	orekộ	pitúna.
+# text_por_gloss = — Meu	pai	tem	noite.
+
+# sent_id = Magalhaes1876:01:12:12
+# text_orig = Rẹkệri	putari	ramé	çẹ	irúmo	rẹmundú	piậmo	ahé,	paraná	rupí.
+# text_por_gloss = Dormir	queres	se	eu	com	tu mandes	buscar	ela,	rio	pelo.
+
+# sent_id = Magalhaes1876:01:13:13
+# text_orig = Ahé	ocenõĩ	muçapɨra	miaçúa;	xẹmirẹcó	omundú aitá	i	rúba	ộca	píri,	oçộ	opiámo	arãma	iepé	tucumã	rainha.
+# text_por_gloss = Ele	chamou	os três	vassalos;	sua mulher	mandou-os	de seu	pai	casa	à,	irem	buscar	para,	um	de tucumã	caroço.
+
+# sent_id = Magalhaes1876:01:14:14
+# text_orig = Aitá	ocɨka	ramé	Boia-Uaçú	ộca	upé,	quahá	omehẽ	aitá çupé	oiepé	tucumã	rainha,	oiucikináu	rẹtệ,	onhehẽ:	— Kuçukúi ãna;	rẹraçộ;	tenhẽ,	curí	pe	pirári!
+# text_por_gloss = Eles	chegaram	quando	da Cobra Grande	casa	em,	esta	deu	lhes	um	de tucumã	caroço,	fechado	perfeitamente,	e disse:	— Aqui está;	levai;	eia	não	o	abrais!
+
+# sent_id = Magalhaes1876:01:15:15
+# text_orig = Pẹpirári	ramé	pecanhɨma	curí.
+# text_por_gloss = Abrirdes	se o	vos	perdereis.
+
+# sent_id = Magalhaes1876:01:16:16
+# text_orig = Miaçúa	oçộ ãna,	ocenõ	teapú	tucumã	raínha	pupé:	ten,	ten,	ten;	ten,	ten,	ten.
+# text_por_gloss = Os vassalos	foram-se,	ouviram	barulho	de tucumã	do caroço	dentro:	ten,	ten,	ten;	ten,	ten,	ten.
+
+# sent_id = Magalhaes1876:01:17:17
+# text_orig = Tukura itá	reapú,	iúí itá	irúmu,	onhengári	uahá	pitúna	ramé.
+# text_por_gloss = Dos grilos era	o barulho,	e dos sapinhos,	com eles,	cantam	os quais	noite	durante.
+
+# sent_id = Magalhaes1876:01:18:18
+# text_orig = Miaçúa	oikộ	ramé	ãna	apecatú	oiepé	çuíuára	onhehẽ	i	irumoára itá	çupé:	— Mãháta	quahá	teapú?
+# text_por_gloss = Vassalos	estavam	quando	já	longe	um	deles	disse	seus	companheiros	aos:	— O que é	este	barulho?
+
+# sent_id = Magalhaes1876:01:19:19
+# text_orig = — Iaçộ	iamahã?
+# text_por_gloss = — Vamos	ver?
+
+# sent_id = Magalhaes1876:01:20:20
+# text_orig = Iacumãɨua	onhehẽ:	— Intimahã;	curumũ tahá	iacanhɨma curí.
+# text_por_gloss = O piloto	disse:	— Não;	do contrário	nos perderemos.
+
+# sent_id = Magalhaes1876:01:21:21
+# text_orig = Peapucúi,	iaçộ	ãna.
+# text_por_gloss = Remai,	vamos	embora.
+
+# sent_id = Magalhaes1876:01:22:22
+# text_orig = Aitá	oçộ	ãna.
+# text_por_gloss = Eles	se	foram.
+
+# sent_id = Magalhaes1876:01:23:23
+# text_orig = Aitá	ocenõ	oikộ	teapú;	intí	oquáu	mahã	nhahã	teapú	uahá.
+# text_por_gloss = Eles	ouvindo	estavam	o barulho;	não	sabiam	o que era	aquele	barulho	que.
+
+# sent_id = Magalhaes1876:01:24:24
+# text_orig = Aitá	oikộ	apecatú	rẹtệ	ãna	ramé	aitá	oiúmuatíri	ɨgára	pitệra	pé	opirári	arãma	tucumã	raínha,	omahã	arãma	mahã	oikộ	i	pupé.
+# text_por_gloss = Eles	estavam	longe	muitíssimo	já	quando	eles	juntaram-se	da canoa	meio	em	abrir	para	do tucumã	o caroço,	ver	para	o que	estava	dele	dentro.
+
+# sent_id = Magalhaes1876:01:25:25
+# text_orig = Oiepé	omũdɨca	tatá;	aitá	omuiutɨcú	iraitĩ	ocɨkináu	oikộ	uahá	tucumã	raínha	okệna.
+# text_por_gloss = Um	acendeu	fogo;	eles	derreteram	o breu	fechando	estava	que	de tucumã	do caroço	a porta.
+
+# sent_id = Magalhaes1876:01:26:26
+# text_orig = Aitá	opirári	ramé,	curutẽuára	pitúna	uaçú	ãna!
+# text_por_gloss = Eles	abriram	quando,	repentinamente	noite	densa	já!
+
+# sent_id = Magalhaes1876:01:27:27
+# text_orig = Aramé	iacumãɨua	onhehẽ:	— Iacanhɨmo!...
+# text_por_gloss = Então	o piloto	disse:	— Nos perdemos!...
+
+# sent_id = Magalhaes1876:01:28:28
+# text_orig = Cunhã-mucũ,	çộca	upé,	oquáu	ãna	ianệ	iapirári	quahá	tucumã	raínha.
+# text_por_gloss = A moça,	sua casa	em,	sabe	já	que nós	abrimos	este	de tucumã	caroço.
+
+# sent_id = Magalhaes1876:01:29:29
+# text_orig = Aitá	oçộ ãna.
+# text_por_gloss = Eles	seguiram viagem.
+
+# sent_id = Magalhaes1876:01:30:30
+# text_orig = Cunhã-mucũ,	çộca	upé,	onhehẽ	i	mệna	çupé:	— Aitá	opirári	pitúna.
+# text_por_gloss = A moça,	sua casa	em,	disse	seu	marido	a:	— Eles	soltaram	a noite.
+
+# sent_id = Magalhaes1876:01:31:31
+# text_orig = Cuhɨre	iaçộ	iáçarú	coẽma.
+# text_por_gloss = Agora	vamos	esperar	a manhã.
+
+# sent_id = Magalhaes1876:01:32:32
+# text_orig = Aramé	opaĩ	mahã,	oçậin	oikộ	uahá	cahá	rupí,	ocẹrệo	çọộ	arãma,	uɨrá	arãma.
+# text_por_gloss = Então	todas	as coisas	espalhadas	estavam	que	bosque	pelo,	metamorfosearam-se	animais	em,	pássaros	em.
+
+# sent_id = Magalhaes1876:01:33:33
+# text_orig = Opaĩ	mahã	oçậin	oikộ	paraná	rupí,	oierệo	ipẹca	arãma,	pirá	arãma;	uruçakậnga	oierệo	iáuaraẹtệ	arãma.
+# text_por_gloss = Todas	as coisas	espalhadas	estavam	rio	pelo,	metamorfosearam-se	patos	em,	peixes	em;	o paneiro	virou-se	onça	em.
+
+# sent_id = Magalhaes1876:01:34:34
+# text_orig = Pirakaçára	oierệo,	i	ɨgára	irúmo,	ipẹca	arãma;	i	akãnga	ipẹca-akãnga	arãma;	i	apucuitáua	oierệo	ipẹca	rẹtimã	arãma;	ɨgára	ipẹca	cẹtệ	arãma.
+# text_por_gloss = O pescador	virou-se,	sua	canoa	com,	pato	em;	sua	cabeça	de pato cabeça	em;	seu	remo	virou	de pato	pernas	em;	a canoa	do pato	corpo	em.
+
+# sent_id = Magalhaes1876:01:35:35
+# text_orig = Boia-Uaçú	menbɨra	omahã	ramé	Iacɨtatá-uaçú,	onhehẽ	i	ména	çupé:	— Coẽma	oúri	oikộ;	xa	çộ xa	muĩn	ára	pitúna	çuí.
+# text_por_gloss = Da Cobra Grande	a filha	viu	quando	a estrela Vênus,	disse	seu	marido	a:	— Manhã	vindo	está;	eu	vou	dividir	dia	noite	da.
+
+# sent_id = Magalhaes1876:01:36:36
+# text_orig = Aramé	ahé	omamãna	inimũ,	onhehẽ:	— Indẹ	cujubí	curí,	onhehengári	arãma	coẽma	oúri	ramé curí.
+# text_por_gloss = Então	ela	enrolou	fio,	e disse:	— Tu	cujubim	serás,	cantar	para	manhã	vier	quando.
+
+# sent_id = Magalhaes1876:01:37:37
+# text_orig = Quaí	omunhã	cujubim,	omutinga	i	akẫnga	tauátínga	irúmo,	omupiránga	cẹtimã	urucú	irúmo,	onhehẽ	ixupé:	— Rẹnheengári curí,	opaĩ	ára	opé,	coẽma	oúri	ramé.
+# text_por_gloss = Assim	fez	o cujubim,	branqueou	dele	a cabeça	tabatinga	com,	avermelhou	suas pernas	urucum	com,	disse	ele a:	— Cantarás	para	todo	sempre,	manhã	vier	quando.
+
+# sent_id = Magalhaes1876:01:38:38
+# text_orig = Ariré	ahé	omamãna	inimũ,	onhehẽ:	— Indệ	inanbú	curi.
+# text_por_gloss = Depois	ela	enrolou	fio,	disse:	— Tu	inambu	serás.
+
+# sent_id = Magalhaes1876:01:39:39
+# text_orig = Opɨcɨca	tanimúca	ombúri	cẹcệ,	onhehẽ	ixupé:	— Inẹ	inambú	curí,	onhehengári	arãma	caarúca	ramé,	pitúna	ramé,	pɨçaié	ramé,	pitúna	pucú	ramé,	coẽma	piranga	ramé.
+# text_por_gloss = Tomou	cinza	pôs	sobre	ele,	disse	a ele:	— Tu	inambu	serás,	cantar	para	tarde	em	de noite	em,	meia-noite	em,	noite	alta	em,	madrugada	em.
+
+# sent_id = Magalhaes1876:01:40:40
+# text_orig = Aá	çuí	uiráitá	onhehengári	ára	catú	upé,	coẽma	oúri	ramé,	omurộrí	arãma	ára.
+# text_por_gloss = De então	para cá	os pássaros	cantaram	tempos	próprios	em,	manhã	vem	quando,	alegrar	para	o dia.
+
+# sent_id = Magalhaes1876:01:41:41
+# text_orig = Muçapɨra	miaçúa	ocɨka	ramé	curumĩ-uaçú	onhehẽ	aitá	çupé:	— Penhẽ	intí	peçupí	uãna!
+# text_por_gloss = Três	vassalos	chegaram	quando	o moço	disse	eles	a:	— Vós	não	fostes	fiéis!
+
+# sent_id = Magalhaes1876:01:42:42
+# text_orig = Penhẽ	pepirári	pitúna!
+# text_por_gloss = Vós	soltastes	a noite!
+
+# sent_id = Magalhaes1876:01:43:43
+# text_orig = Penhẽ	pemunhã uãna	opãĩ	mahã	ocãɨma;	aarẹcé	peiệreo	macacaí	arãma	opaĩ	ára	opé;	rẹuatá	mɨrá	rakẫnga	rupí	eatíre.
+# text_por_gloss = Vós	fizestes	todas	as coisas	perderem-se;	por isso	virareis	macaquinhos	em	para	todo	sempre;	andareis	das árvores	galhos	sobre	atrepados.
+
