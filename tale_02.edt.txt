@@ -102,7 +102,9 @@
 # text_por_gloss = Rio	respondeu:	— Não sei.
 
 # sent_id = Magalhaes1876:02:26:69
+# text = Yautí unheẽ paraná supé: — Maã/int resé/adp taá yawé/adva katú/advs renheẽ ixé arama/adp? 
 # text_orig = Iáutí	onhehẽ	paraná	çupé:	— Mãhá	rẹcệ	tahá	iaué	catú	rẹnhehẽ	ixệ? (arãma?)
+# text_por = Jabuti falou ao rio: — Por que razão que tu falas a mim assim bem?
 # text_por_gloss = Jabuti	falou	rio	ao:	— Por que	razão	que	assim	bem	tu falas	a mim?
 
 # sent_id = Magalhaes1876:02:27:70
