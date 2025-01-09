@@ -1,31 +1,31 @@
 # title_orig = IAUTI	OIUIUANTI	MACACAITÁ	IRUMO
 # title_por_orig = O jabuti	encontra-se	macacos	com
 
-# sent_id = Magalhaes1876:05:1:144
+# sent_id = Magalhaes1876:5:1:144
 # text_orig = Iáutí mirĩ	ouatá,	ouatá,	ouatá	mocọĩ	ára	pucuçáua,	oiuiúantí	macáca	irúmo,	oikọ	uahá	ɨuá	ɨua	rẹcệ,	onhehẽ	macaca	çupé: — Macáca,	rẹomburí	amú	ɨuá	xa	ú	arãma.
 # text_por_gloss = Jabutizinho	andou,	andou,	andou	de dois	dias	o espaço,	encontrou-se	macacos	com,	estavam	que	de fruta	árvore	sobre	e disse	macaco	ao: — Macaco,	tu jogues	alguma	fruta	eu	comer	para.
 
-# sent_id = Magalhaes1876:05:2:145
+# sent_id = Magalhaes1876:5:2:145
 # text_orig = Macáca	oçuaxára: — Rẹiupirí,	intí-será	apgáua	ndệ?
 # text_por_gloss = Macaco	respondeu: — Suba,	por ventura não é	macho	você?
 
-# sent_id = Magalhaes1876:05:3:146
+# sent_id = Magalhaes1876:5:3:146
 # text_orig = Iáutí	onhehẽ:	— Ixệ	apgáua	çupí;	intí	xa	iúpíri	putári,	cẹ	maraári	rẹcệ.
 # text_por_gloss = Jabuti	respondeu:	— Eu sou	macho	na verdade;	não	eu	subir	quero,	eu	estar cansado	por.
 
-# sent_id = Magalhaes1876:05:4:147
+# sent_id = Magalhaes1876:5:4:147
 # text_orig = Macáca	onhehẽ: — Manhúm	xa	munhã	quáu	indệu	xa	çọ	nẹ	piãmo	açuí	ki	kẹtệ.
 # text_por_gloss = Macaco	disse: — Somente	o que eu	fazer	posso	a você é o	eu	ir	a você	buscar	daí	aqui	para.
 
-# sent_id = Magalhaes1876:05:5:148
+# sent_id = Magalhaes1876:5:5:148
 # text_orig = Iáutí	onhehẽ:	Aramé	iúre	cẹ	piãmo.
 # text_por_gloss = Jabuti	disse:	Então	venha	me	buscar.
 
-# sent_id = Magalhaes1876:05:6:149
+# sent_id = Magalhaes1876:5:6:149
 # text_orig = Macáca	oiɨệ,	puraçọ	ɨuaté	kẹtệ	iáutí;	aápe	oxári	ahé.
 # text_por_gloss = Macaco	desceu,	carregou	cima	para	o jabuti;	lá	deixou	ele.
 
-# sent_id = Magalhaes1876:05:7:150
+# sent_id = Magalhaes1876:5:7:150
 # text_orig = Iáutí	opɨta	ápe	mocoĩ	ára	riré,	intí	quáu	oɨé	rẹcệ.
 # text_por_gloss = O jabuti	permaneceu	ali	dois	dias	depois,	não	poder	descer	por.
 

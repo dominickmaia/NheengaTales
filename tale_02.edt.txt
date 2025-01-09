@@ -1,191 +1,191 @@
 # title_orig = JAUTI	TAPIIRA	CAHAIUÁRA
 # title_por_orig = Jabuti	e anta	do mato
 
-# sent_id = Magalhaes1876:02:1:44
+# sent_id = Magalhaes1876:2:1:44
 # text_orig = Iautí	míra	catú,	intimãhã	míra	puxí.
 # text_por_gloss = Jabuti	gente	é boa,	não	gente	é má.
 
-# sent_id = Magalhaes1876:02:2:45
+# sent_id = Magalhaes1876:2:2:45
 # text_orig = Oikộ	itapereɨuá	uɨrpe,	oçanhãna	i	tẹmiú.
 # text_por_gloss = Estava	do taperebá	embaixo,	ajuntando	sua	comida.
 
-# sent_id = Magalhaes1876:02:3:46
+# sent_id = Magalhaes1876:2:3:46
 # text_orig = Tapiíra	cahaiúára	oçɨka	ápe,	onhehẽ	ixupé:	—	Rẹtɨrɨca	iáutí,	rẹtɨrɨca	kí (iké)	xií.
 # text_por_gloss = Anta	do mato	chegou	ali,	disse	a ele:	—	Retire-se,	jabuti,	retire-se	aqui	de.
 
-# sent_id = Magalhaes1876:02:4:47
+# sent_id = Magalhaes1876:2:4:47
 # text_orig = Iautí	oçuaxára	ixupé:	— Ixệ	ki	xií (çuí)	intí	xa	tɨrɨca	mãhá	rẹcệ	xa	ikộ	cẹ	ɨuá	ɨua	uɨrpe.
 # text_por_gloss = Jabuti	respondeu	a ela:	— Eu	aqui	de	não	me	retiro	que	por (porque)	eu	estou	de minha	de fruta	árvore	embaixo.
 
-# sent_id = Magalhaes1876:02:5:48
+# sent_id = Magalhaes1876:2:5:48
 # text_orig = — Rẹtɨrɨca,	iautí,	curumú	xa	pirú	indệ.
 # text_por_gloss = — Retira-te,	jabuti,	senão	eu	piso	você.
 
-# sent_id = Magalhaes1876:02:6:49
+# sent_id = Magalhaes1876:2:6:49
 # text_orig = — Rẹpirú!...	rẹ	mahẽ	arãma,	inệ	nhũ	será	apgáua!
 # text_por_gloss = — Pisa!...	tu	veres	para,	se tu	só	és	macho!
 
-# sent_id = Magalhaes1876:02:7:50
+# sent_id = Magalhaes1876:2:7:50
 # text_orig = Tapiíra,	iurúparí,	opirú	iáutí	teté.
 # text_por_gloss = Anta,	juruparí,	pisou	jabuti	coitado.
 
-# sent_id = Magalhaes1876:02:8:51
+# sent_id = Magalhaes1876:2:8:51
 # text_orig = Tapiíra	oçộ	ãna.
 # text_por_gloss = Anta	se foi	embora.
 
-# sent_id = Magalhaes1876:02:9:52
+# sent_id = Magalhaes1876:2:9:52
 # text_orig = Iáutí	quaí	onhehẽ:	— Tenupá,	iúruparí;	amãna	ára	ramé	curí	xa	cẽmo,	xa	çộ	nẹ	racaquệra	mamé	catú	xa	uácẽmo	ndệ;	xa	mehẽ curí	indệ	arãma	rẹiútɨma	recuiára,	ixệ.
 # text_por_gloss = Jabuti	assim	disse:	— Deixe estar,	juruparí;	da chuva	o tempo	quando	for	eu	saio,	eu	vou	em teu	encalço	onde	até	eu	encontrar	você;	eu	darei	você	há	de me enterrares	o troco,	eu.
 
-# sent_id = Magalhaes1876:02:10:53
+# sent_id = Magalhaes1876:2:10:53
 # text_orig = Amãna	ára	ocɨka ãna	iáutí	ocẽmo	arãma.
 # text_por_gloss = Da chuva	o tempo	chegou	o jabuti	tirar	para.
 
-# sent_id = Magalhaes1876:02:11:54
+# sent_id = Magalhaes1876:2:11:54
 # text_orig = Iautí	ocẽmo	oçộ	ậna	iúrupari	uaçú	racaquệra.
 # text_por_gloss = Jabuti	saiu	foi	embora	do juruparí	grande	atrás.
 
-# sent_id = Magalhaes1876:02:12:55
+# sent_id = Magalhaes1876:2:12:55
 # text_orig = Oiúiúantí	tapiíra	pɨpóra	irúmo.
 # text_por_gloss = Encontrou-se	da anta	rastro	com.
 
-# sent_id = Magalhaes1876:02:13:56
+# sent_id = Magalhaes1876:2:13:56
 # text_orig = Iáutí	opuranú	ixupé:	— Mũíri	ára	ãna	nẹ	iára	oxári	indệ?
 # text_por_gloss = Jabuti	perguntou	a ele:	— Quanto	tempo	já	teu	senhor	deixou	você?
 
-# sent_id = Magalhaes1876:02:14:57
+# sent_id = Magalhaes1876:2:14:57
 # text_orig = Pɨpóra	oçuaxára:	— Cuxiíma	ãna	cẹ	oxári.
 # text_por_gloss = O rastro	respondeu:	— Há muito	já	me	deixou.
 
-# sent_id = Magalhaes1876:02:15:58
+# sent_id = Magalhaes1876:2:15:58
 # text_orig = Iáutí	ocẽmo	a	xií	iepé	iacɨ	rirí (riré),	oiúiúantí	amũ	pɨpóra	irúmo.
 # text_por_gloss = Jabuti	saiu	ali	de	uma	lua (um mês)	depois,	encontrou-se	outro	rastro	com.
 
-# sent_id = Magalhaes1876:02:16:59
+# sent_id = Magalhaes1876:2:16:59
 # text_orig = Iáutí	opuraunú:	— Apécatú	raín será	nẹ	iára	oikộ?
 # text_por_gloss = Jabuti	perguntou:	— Longe	ainda	teu	senhor	está?
 
-# sent_id = Magalhaes1876:02:17:60
+# sent_id = Magalhaes1876:2:17:60
 # text_orig = Pɨpóra	oçuaxára:	— Rẹuatá	ramé	mọcộĩ	ára	reçuantí (rẹiuiúantí) curí	ahé	irúmo.
 # text_por_gloss = O rastro	respondeu:	— Tu andares	quando	dois	dias	te encontrarás	ele	com.
 
-# sent_id = Magalhaes1876:02:18:61
+# sent_id = Magalhaes1876:2:18:61
 # text_orig = Iáutí	onhehẽ	ixupé:	— Cẹ	querãna	xa	cicári;	ahé	ipộ	oçộ	rẹtệãna.
 # text_por_gloss = Jabuti	falou	ele a:	— Estou	aborrecido	eu	de procurar;	ela	pode ser	foi	de uma vez.
 
-# sent_id = Magalhaes1876:02:19:62
+# sent_id = Magalhaes1876:2:19:62
 # text_orig = Pɨpóra	opuranú:	— Mãhá	rẹcệ	tahá	quité	rẹcicári	rẹtệ	ahé?
 # text_por_gloss = Rastro	perguntou:	— Por que	razão	que	agora	tu procuras	tanto	ela?
 
-# sent_id = Magalhaes1876:02:20:63
+# sent_id = Magalhaes1876:2:20:63
 # text_orig = Iáutí	oçuaxára:	— Intimahã	mahã	arãma;	Xa	purunguetá	putári	ahé	irúmo.
 # text_por_gloss = Eu	conversar	quero	ela	com.	Jabuti	respondeu:	— Nenhuma	coisa	para (para nada).
 
-# sent_id = Magalhaes1876:02:21:64
+# sent_id = Magalhaes1876:2:21:64
 # text_orig = Pɨpóra	onhehẽ:	— Aramé	rẹçộ	uãna	paraná	mirĩ	kẹtệ;	aápe	curí	rẹuacẽmo	cẹ	rúba	turuçú.
 # text_por_gloss = Rastro	falou:	— Então	tu vás		rio	pequeno	ao;	lá		acharás	meu	pai	grande.
 
-# sent_id = Magalhaes1876:02:22:65
+# sent_id = Magalhaes1876:2:22:65
 # text_orig = Iáutí	quaí	onhehẽ:	— Aramé	xa	çộ	raĩ.
 # text_por_gloss = Jabuti	assim	falou:	— Então	eu	vou	ainda.
 
-# sent_id = Magalhaes1876:02:23:66
+# sent_id = Magalhaes1876:2:23:66
 # text_orig = Ocɨka	paraná	mirĩ	pupé;	quaí	opuranú:	— Paraná,	mãhápa	nẹ	iára?
 # text_por_gloss = Ele chega	rio	pequeno	no;	assim	perguntou:	— Rio,	que é do	teu	senhor?
 
-# sent_id = Magalhaes1876:02:24:67
+# sent_id = Magalhaes1876:2:24:67
 # text_orig = Paraná	oçuaxára:	— Tauquáu. (Intí quau).
 # text_por_gloss = Rio	respondeu:	— Não sei.
 
-# sent_id = Magalhaes1876:02:25:68
+# sent_id = Magalhaes1876:2:25:68
 # text_orig = Iáutí	onhehẽ	paraná	çupé:	— Mãhá	rẹcệ	tahá	iaué	catú	rẹnhehẽ	ixệ? (arãma?)
 # text_por_gloss = Jabuti	falou	rio	ao:	— Por que	razão	que	assim	bem	tu falas	a mim?
 
-# sent_id = Magalhaes1876:02:26:69
+# sent_id = Magalhaes1876:2:26:69
 # text_orig = Paraná	oçuaxára:	— Xa	nhehẽ	inệ	arãma	nhahã	iaué	catú	mãharẹcệ	xa	quáu ãna	mahã	cẹ	rúba	omunhã	indệ	arãma.
 # text_por_gloss = Rio	respondeu:	— Eu	falo	você	a	isto	assim	bem	porque	eu	soube	o que	meu	pai	fez	você	a.
 
-# sent_id = Magalhaes1876:02:27:70
+# sent_id = Magalhaes1876:2:27:70
 # text_orig = Iáutí	onhehẽ:	— Tenupá	oikộ;	ixệ	curí	xa uácẽmo	ahé.
 # text_por_gloss = Jabuti	falou:	— Deixe	estar;	eu	hei de	achar	ele.
 
-# sent_id = Magalhaes1876:02:28:71
+# sent_id = Magalhaes1876:2:28:71
 # text_orig = Aramé	cuhɨre,	paraná,	xa	cộ	nẹ	çuí;	remahẽ	ramé	curí	ixệ	nẹ	páia	reẫuệra	irúmo	uãna.
 # text_por_gloss = Então	agora,	rio,	me	vou	você	de;	avistares	quando		eu	de teu	pai	cadáver	com	estarei.
 
-# sent_id = Magalhaes1876:02:29:72
+# sent_id = Magalhaes1876:2:29:72
 # text_orig = Paraná	onhehẽ:	—	Ten rẹiáúkɨ	cẹ	rúba	irúmo!	tenupá okệri.
 # text_por_gloss = Rio	respondeu:	—	Não	bulas	meu	pai	com!
 
-# sent_id = Magalhaes1876:02:30:73
+# sent_id = Magalhaes1876:2:30:73
 # text_orig = — tenupá	okệri.
 # text_por_gloss = — deixa	ele dormir.
 
-# sent_id = Magalhaes1876:02:31:74
+# sent_id = Magalhaes1876:2:31:74
 # text_orig = Iáutí	onhehẽ:	— Cuhɨre	çupí	cẹ	rurí	catú;	paraná	xa	çộ	raĩ.
 # text_por_gloss = Jabuti	falou:	— Agora	certo	me	alegro	bem;	rio	me	vou	ainda.
 
-# sent_id = Magalhaes1876:02:32:75
+# sent_id = Magalhaes1876:2:32:75
 # text_orig = Paraná	oçuaxára:	— Ah,	iáutí,	inệ	ipø	rẹiúiútɨma	putári	mocộĩ	uè!
 # text_por_gloss = Rio	respondeu:	— Ah,	jabuti,	você	pode ser	te enterrares	queres	segunda	vez!
 
-# sent_id = Magalhaes1876:02:33:76
+# sent_id = Magalhaes1876:2:33:76
 # text_orig = Iáutí	onhehẽ:	— Intimahã	xa ikộ	ára	uɨrpe	itá	arãma;	cuhɨre	xa	çộ	xamahẽ	kirimáua	pɨre	 uahá	cẹ	çuí;	erệ,	paraná,	xa	çộ	raĩ.
 # text_por_gloss = Jabuti	falou:	— Não	estou	mundo	no	pedra	para;	agora	eu	vou	ver se	valente	mais	que	eu	do;	adeus,	rio,	me	vou	ainda.
 
-# sent_id = Magalhaes1876:02:34:77
+# sent_id = Magalhaes1876:2:34:77
 # text_orig = Iáutí	oçộ	uãna;	paraná	mirĩ	rẹmẹɨua	rupí	uacẽmo	tapiíra.
 # text_por_gloss = Jabuti	foi-se	embora;	do rio	pequeno	margem	sobre	encontrou	a anta.
 
-# sent_id = Magalhaes1876:02:35:78
+# sent_id = Magalhaes1876:2:35:78
 # text_orig = Iáutí	onhehẽ	quahá	iaué:	— Xa	uacẽmo	ndẹ	ø	intimahã?
 # text_por_gloss = Jabuti	falou	a esta	assim:	— Eu	encontrei	você	ou	não?
 
-# sent_id = Magalhaes1876:02:36:79
+# sent_id = Magalhaes1876:2:36:79
 # text_orig = — Cuhɨre	remahẽ curí	cẹ	irúmo.
 # text_por_gloss = — Agora	tu verás	eu	com (comigo).
 
-# sent_id = Magalhaes1876:02:37:80
+# sent_id = Magalhaes1876:2:37:80
 # text_orig = — Ixệ	pahá	apgáua!
 # text_por_gloss = — Eu,	dizem,	sou macho!
 
-# sent_id = Magalhaes1876:02:38:81
+# sent_id = Magalhaes1876:2:38:81
 # text_orig = Opúri	renoné	tapiíra	çapiá	opé.
 # text_por_gloss = Pulou	adiante	da anta	escrotos	nos.
 
-# sent_id = Magalhaes1876:02:39:82
+# sent_id = Magalhaes1876:2:39:82
 # text_orig = Quaí	onhehẽ:	— Tatá,	pahá,	oçapɨ	opaĩ	rupí!
 # text_por_gloss = Então	falou:	— Fogo,	dizem,	queima	tudo	sobre!
 
-# sent_id = Magalhaes1876:02:40:83
+# sent_id = Magalhaes1876:2:40:83
 # text_orig = Iáutí	opúri	kirimáuaçáua	irúmo	tapiíra	rapiá	recệ.
 # text_por_gloss = O jabuti	pulou	valentia	com	da anta	escrotos	sobre.
 
-# sent_id = Magalhaes1876:02:41:84
+# sent_id = Magalhaes1876:2:41:84
 # text_orig = Tapiíra	iacãnhệmo,	opáka.
 # text_por_gloss = A anta	assustou-se,	acordou.
 
-# sent_id = Magalhaes1876:02:42:85
+# sent_id = Magalhaes1876:2:42:85
 # text_orig = Tapiíra	quaí	onhehẽ:	— Tupãna	rẹcệ	catú,	iáutí,	rexári	cẹ	rapiá.
 # text_por_gloss = Anta	assim	falou:	— Tupãn	pelo	bom,	jabuti,	deixa	meu	escroto.
 
-# sent_id = Magalhaes1876:02:43:86
+# sent_id = Magalhaes1876:2:43:86
 # text_orig = Iáutí	oçuaxára:	— Ixệ	intimahã	xa xári	mãhá	rẹcệ	xa	mahẽ	putári	nẹ	kirimáuaçáua.
 # text_por_gloss = Jabuti	respondeu:	— Eu	não	deixo	que	por	eu	ver	quero	tua	valentia.
 
-# sent_id = Magalhaes1876:02:44:87
+# sent_id = Magalhaes1876:2:44:87
 # text_orig = Tapiíra	onhehẽ:	— Aramé	a ikộ	xa	çộ.
 # text_por_gloss = Anta	falou:	— Então	estou	me	indo.
 
-# sent_id = Magalhaes1876:02:45:88
+# sent_id = Magalhaes1876:2:45:88
 # text_orig = Tapiíra	opuãma,	unhãna	paraná	mirĩ	rupí;	mocoĩ	ára	pauacápe	tapiíra	omanũ-ãna.
 # text_por_gloss = Anta	levantou-se,	correu	rio	pequeno	sobre;	dois	dias	no fim,	anta	morreu.
 
-# sent_id = Magalhaes1876:02:46:89
+# sent_id = Magalhaes1876:2:46:89
 # text_orig = Iáutí	quaí	onhehẽ:	— Xa	iucá	ndệ,	o	intimahã?
 # text_por_gloss = Jabuti	então	falou:	— Eu	matei	você	ou	não?
 
-# sent_id = Magalhaes1876:02:47:90
+# sent_id = Magalhaes1876:2:47:90
 # text_orig = — Cuhɨre	xa	çộ	xa cicári	cẹ	anãma itá	oú	arãma	ndệ.
 # text_por_gloss = — Agora	eu	vou	procurar	meus	parentes	comerem	para	você.
 

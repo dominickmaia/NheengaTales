@@ -1,175 +1,175 @@
 # title_orig = JAUTI	ÇUAÇU
 # title_por_orig = Jabuti e	Veado
 
-# sent_id = Magalhaes1876:04:1:101
+# sent_id = Magalhaes1876:4:1:101
 # text_orig = Iautí mirĩ	oçộãna	ocicári	i	anãma itá (eta),	oiúiúanti	çuaçú	irúmo.
 # text_por_gloss = Jabuti pequeno	foi	procurar	seus	parentes,	encontrou-se	veado	com.
 
-# sent_id = Magalhaes1876:04:2:102
+# sent_id = Magalhaes1876:4:2:102
 # text_orig = Çuaçú	opuranú	ixupé: — Mahá	kẹtệ	tahá	rẹçộ?
 # text_por_gloss = O veado	perguntou	a ele: — Onde	para	que	tu vais?
 
-# sent_id = Magalhaes1876:04:3:103
+# sent_id = Magalhaes1876:4:3:103
 # text_orig = Iautí	oçuaxára: — Xa	çộ	xa	cenoĩ	cẹ	anãma itá (eta)	oúri	ocicári	arãma (omahen)	cẹ	rẹmiára	uaçú,	tapiíra.
 # text_por_gloss = Jabuti	respondeu: — Eu	vou	eu	chamar	meus	parentes	virem	procurar	para	minha	caçada	grande,	a anta.
 
-# sent_id = Magalhaes1876:04:4:104
+# sent_id = Magalhaes1876:4:4:104
 # text_orig = Çuaçú	quaí	onhehẽ: — Aramé	rệiucá	tapiíra?!
 # text_por_gloss = O veado	assim	falou: — Então	você matou	anta?!
 
-# sent_id = Magalhaes1876:04:5:105
+# sent_id = Magalhaes1876:4:5:105
 # text_orig = Cộĩ	rẹcenộĩ	nẹ	míra	itá (eta);	ixệ	xa	pitá	ikệ	xa	mahẽ	putári	a	itá (ae eta)	rẹcệ.
 # text_por_gloss = Vá	chame	tu	gente	toda:	quanto a mim,	eu	fico	aqui	eu	olhar	quero		eles	sobre.
 
-# sent_id = Magalhaes1876:04:6:106
+# sent_id = Magalhaes1876:4:6:106
 # text_orig = Iáutí	quaí	onhehĩ: — Aramé	intiãna	xa ço; qui xií	tenhện	xa	iuɨri	xa	çarú	arãma	iúca	tapiíra,	xa	iuúca	arãma	i	cãuệra	cerememɨ	arãma.
 # text_por_gloss = Jabuti	assim	falou: — Então	eu não mais	vou;	daqui	mesmo	eu	volto	eu	esperar		que apodreça	a anta, eu	tirar	para	seu	osso	minha gaita	para.
 
-# sent_id = Magalhaes1876:04:7:107
+# sent_id = Magalhaes1876:4:7:107
 # text_orig = — Erệ,	çuaçú, 	xa	çọ	raĩ.
 # text_por_gloss = — Está bom,	veado,	eu	vou	já.
 
-# sent_id = Magalhaes1876:04:8:108
+# sent_id = Magalhaes1876:4:8:108
 # text_orig = Çuaçú	quaí	onhehẽ: — Rẹ	iucá	tapiíra	cuhɨre	xa	çaận	putári	xa	nhãna	nẹ	irúmo.
 # text_por_gloss = Veado	assim	falou: — Tu	matastes	anta	agora	eu	experimentar	quero	eu	correr	você	com.
 
-# sent_id = Magalhaes1876:04:9:109
+# sent_id = Magalhaes1876:4:9:109
 # text_orig = Iaúti	oçuaxára: — Áramé	rẹçarú	ixệ	ikệ:	xa	çọ	xa	mahẽ	maarupí	xá	uhãna	curí.
 # text_por_gloss = Jabuti	respondeu: — Então	você espere	a mim	aqui:	eu	vou	eu	ver	por onde	eu	correr	hei de.
 
-# sent_id = Magalhaes1876:04:10:110
+# sent_id = Magalhaes1876:4:10:110
 # text_orig = Çuaçú	onhehẽ: — Rẹnhãna	ramé	amú	çuaxára	rupí,	xa	çapucái	ramé	rẹçuaxára.
 # text_por_gloss = Veado	falou: — Tu correres	quando	outro	lado	por,	eu	gritar	quando,	tu respondas.
 
-# sent_id = Magalhaes1876:04:11:111
+# sent_id = Magalhaes1876:4:11:111
 # text_orig = Iauti	onhhẽ: — Xa	çó	raín.
 # text_por_gloss = Jabuti	falou: — Me	vou	ainda.
 
-# sent_id = Magalhaes1876:04:12:112
+# sent_id = Magalhaes1876:4:12:112
 # text_orig = Çuáçú	onhenhẽ	ixupé:	— Ten	curí	rẹikó pucú...
 # text_por_gloss = O veado	falou	a ele:	— Agora	vá	demorar-se...
 
-# sent_id = Magalhaes1876:04:13:113
+# sent_id = Magalhaes1876:4:13:113
 # text_orig = Xa	mahẽ	putári	nẹ	kirimauacáua.
 # text_por_gloss = Eu	ver	quero	tua	valentia.
 
-# sent_id = Magalhaes1876:04:14:114
+# sent_id = Magalhaes1876:4:14:114
 # text_orig = Iautí	quaí	onhenhẽ:	— Rẹçarú	xínga	ranhện, (raín)	tenupá	xa	cɨka	çuáindá	pe.
 # text_por_gloss = Jabuti	assim	falou:	— Espere	um pouco	ainda,	deixa-	me	chegar	outra banda	na.
 
-# sent_id = Magalhaes1876:04:15:115
+# sent_id = Magalhaes1876:4:15:115
 # text_orig = Ahé	ocɨka	aápe,	ocenộin	ipáua	i	anãma.
 # text_por_gloss = Ele	chegou	ali,	chamou	todos	seus	parentes.
 
-# sent_id = Magalhaes1876:04:16:116
+# sent_id = Magalhaes1876:4:16:116
 # text_orig = Ahé	omuapɨre	ipáua	paraná	mirim	remiɨua	rupí,	oçuaxára	arãma	çuaçú	aquaɨma	çupé;	aramé	quaí	onhehẽ: — Çuaçú,	rẹiú 	mungaturú	ãna	será?
 # text_por_gloss = Ele	emendou	todos	do rio	pequeno	margem	pela,	responder	para	veado	tolo	ao;	então	assim	falou: — Veado,	você	pronto	já	está?
 
-# sent_id = Magalhaes1876:04:17:117
+# sent_id = Magalhaes1876:4:17:117
 # text_orig = Çuaçú	açuaxára: — Ixệ	xá	ikộ	ãna.
 # text_por_gloss = Veado	respondeu: — Eu	eu	pronto	já.
 
-# sent_id = Magalhaes1876:04:18:118
+# sent_id = Magalhaes1876:4:18:118
 # text_orig = Iautí	opuranú: — Auá	tahã	onhãna	tenoné?
 # text_por_gloss = Jabuti	perguntou: — Quem	que	corre	adiante?
 
-# sent_id = Magalhaes1876:04:19:119
+# sent_id = Magalhaes1876:4:19:119
 # text_orig = Çuaçú	opucá,	onhehẽ: — Rẹçộ	tenoné,	iáutí	tẹtẹ.
 # text_por_gloss = O veado	riu-se,	e disse: — Tu vás	adiante,	jabuti	miserável.
 
-# sent_id = Magalhaes1876:04:20:120
+# sent_id = Magalhaes1876:4:20:120
 # text_orig = Iáutí	intí	unhãna;	oganãni	çuaçú,	oçộ	opɨtá	ipauaçápe.
 # text_por_gloss = O jabuti	não	correu;	enganou ao	veado,	e foi	ficar no	fim.
 
-# sent_id = Magalhaes1876:04:21:121
+# sent_id = Magalhaes1876:4:21:121
 # text_orig = Çuaçú	oikuệnte	oruíári	rẹcệ	cẹ	tɨmãn	rẹcệ.
 # text_por_gloss = O veado	estava tranquilo	fiar-se	por	suas	pernas	em.
 
-# sent_id = Magalhaes1876:04:22:122
+# sent_id = Magalhaes1876:4:22:122
 # text_orig = Iáutí	anãma	oçacệma	çuaçú	rẹcệ.
 # text_por_gloss = Do jabuti	o parente	gritou	veado	pelo.
 
-# sent_id = Magalhaes1876:04:23:123
+# sent_id = Magalhaes1876:4:23:123
 # text_orig = Çuaçú	oçuaxára	çacaquệra	kẹtệ.
 # text_por_gloss = O veado	respondeu	atrás	para.
 
-# sent_id = Magalhaes1876:04:24:124
+# sent_id = Magalhaes1876:4:24:124
 # text_orig = Quaí	çuaçú	onhehẽ: — Aiquệ	xa	çộ,	iúrará	cahapộra!
 # text_por_gloss = Assim	o veado	falou: — Eis-me	que	vou,	tartaruga	do mato!
 
-# sent_id = Magalhaes1876:04:25:125
+# sent_id = Magalhaes1876:4:25:125
 # text_orig = Çuaçú	unhãna,	unhãna,	unhãna,	ariré	oçacệma: — Iáutí!
 # text_por_gloss = O veado	correu,	correu,	correu,	depois	gritou: —  Jabuti!
 
-# sent_id = Magalhaes1876:04:26:126
+# sent_id = Magalhaes1876:4:26:126
 # text_orig = Iáutí	anãma	oçuaxára	tenoné	tenhẽ.
 # text_por_gloss = Do jabuti	o parente	respondeu	adiante	sempre.
 
-# sent_id = Magalhaes1876:04:27:127
+# sent_id = Magalhaes1876:4:27:127
 # text_orig = Çuaçú	onhehẽ: — Aiqué	xa	çộ	apgáua.
 # text_por_gloss = O veado	disse: — Eis-me	que	vou,	ó macho.
 
-# sent_id = Magalhaes1876:04:28:128
+# sent_id = Magalhaes1876:4:28:128
 # text_orig = Çuaçú	unhãna,	unhãna,	unhãna,	oçapucái: — Iáutí!
 # text_por_gloss = O veado	correu,	correu,	correu,	e gritou: — Jabuti!
 
-# sent_id = Magalhaes1876:04:29:129
+# sent_id = Magalhaes1876:4:29:129
 # text_orig = Iáutí	tenoné	tenhẽ	oçuaxára.
 # text_por_gloss = O jabuti	adiante	sempre	respondeu.
 
-# sent_id = Magalhaes1876:04:30:130
+# sent_id = Magalhaes1876:4:30:130
 # text_orig = Çuaçú	onhehẽ: — Xa	ú	raín	ɨ.
 # text_por_gloss = O veado	disse: — Eu vou	beber	ainda	água.
 
-# sent_id = Magalhaes1876:04:31:131
+# sent_id = Magalhaes1876:4:31:131
 # text_orig = Aápe	tenhẽ	çuaçú	okirirí.
 # text_por_gloss = Ali	mesmo	o veado	calou-se.
 
-# sent_id = Magalhaes1876:04:32:132
+# sent_id = Magalhaes1876:4:32:132
 # text_orig = Iáutí	oçaçệma,	oçaçệma,	oçaçệma...
 # text_por_gloss = O jabuti	gritou,	gritou,	gritou...
 
-# sent_id = Magalhaes1876:04:33:133
+# sent_id = Magalhaes1876:4:33:133
 # text_orig = Intí auá	oçuaxára	ahé.
 # text_por_gloss = Ninguém	respondeu	a ele.
 
-# sent_id = Magalhaes1876:04:34:134
+# sent_id = Magalhaes1876:4:34:134
 # text_orig = Aramé	onhehẽ: — Nhahã	apgáua	ipộ	omanộn	ãna:	tenupá	raín	xa	çộ	xa	mahã	ahé.
 # text_por_gloss = Então	disse: — Aquele	macho	pode ser	que morreu	já;	deixa	ainda	que	eu vá	eu	ver	a ele.
 
-# sent_id = Magalhaes1876:04:35:135
+# sent_id = Magalhaes1876:4:35:135
 # text_orig = Iáutí	onhehẽ	quaí	irumoára itá	arãma: — Xa	çó	meué rupí	xa mahã ahệ.
 # text_por_gloss = O jabuti	disse	assim	seus companheiros	para: — Eu	vou	devagarinho	vệ-lo.
 
-# sent_id = Magalhaes1876:04:36:136
+# sent_id = Magalhaes1876:4:36:136
 # text_orig = Iáuti	ocệma	ramé	paraná	rẹmɨệpe,	onhehẽ	quaié: Tirain (intí rain)	cẹrệái.
 # text_por_gloss = O jabuti	saiu	quando	do rio	na margem,	disse	assim: Nem se quer	eu suei.
 
-# sent_id = Magalhaes1876:04:37:137
+# sent_id = Magalhaes1876:4:37:137
 # text_orig = Aramé	ocenõín	çuaçú	rẹcệ: — Çuaçú!
 # text_por_gloss = Então	chamou	veado	pelo: — Veado!
 
-# sent_id = Magalhaes1876:04:38:138
+# sent_id = Magalhaes1876:4:38:138
 # text_orig = Intimahã	çuaçú	oçuaxára ahé.
 # text_por_gloss = Nem nada	o veado	respondeu-lhe.
 
-# sent_id = Magalhaes1876:04:39:139
+# sent_id = Magalhaes1876:4:39:139
 # text_orig = Iáutí	irúmoára	omahã	ramé	çuaçú	rẹcệ,	onhehẽ ãna: — Çupí-tenhẽ	omanũ-ãna.
 # text_por_gloss = Do jabuti	os companheiros	olharam	quando	veado	sobre,	disseram: — Em verdade	morto já está.
 
-# sent_id = Magalhaes1876:04:40:140
+# sent_id = Magalhaes1876:4:40:140
 # text_orig = Iáutí	onhehẽ: — Iaçộ	iaiuúca	i	cãuệra.
 # text_por_gloss = Jabuti	disse: — Vamos	nós tirar	seu	osso.
 
-# sent_id = Magalhaes1876:04:41:141
+# sent_id = Magalhaes1876:4:41:141
 # text_orig = Amuitá	opuranú: — Marãma	tahá	rẹputári?
 # text_por_gloss = Os outros	perguntaram: — Para que	é que	tu queres?
 
-# sent_id = Magalhaes1876:04:42:142
+# sent_id = Magalhaes1876:4:42:142
 # text_orig = Iáutí	oçuaxára: Xa	peiú	arãma	i	pupé	opaĩ	ára	opé.
 # text_por_gloss = Jabuti	respondeu: Eu	assoprar	para	ele	em	todo	tempo	em.
 
-# sent_id = Magalhaes1876:04:43:143
+# sent_id = Magalhaes1876:4:43:143
 # text_orig = Cuhɨre	xa	çộ	ãna	pé	çuí	te	curíamuára	opé.
 # text_por_gloss = Agora	me	vou	embora	aqui	de	até	algum dia	em.
 
