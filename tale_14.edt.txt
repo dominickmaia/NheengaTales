@@ -1,79 +1,79 @@
 # title_orig = MOMEUCAUA	MɨURA	RECEUÁRA
 # title_por_orig = Lendas	da raposa	acerca
 
-# sent_id = Magalhaes1876:14:1:392
+# sent_id = Magalhaes1876:14:1:391
 # text_orig = Intí	rẹmunhã	catú	auá	çupé	intí	rẹquáu.
 # text_por_gloss = Não	faças	bem	quem	a	não	conheces.
 
-# sent_id = Magalhaes1876:14:2:393
+# sent_id = Magalhaes1876:14:2:392
 # text_orig = Oiepé	ára	ọpé	mɨcúra,	uatá	ramé	oikộ,	ocenõ	cururúca	iaué:	um...	um ...	um...	— Mãháta	nhahã	será?
 # text_por_gloss = Um	dia	em	a raposa,	andando	quando	estava,	ouviu	um ronco	assim:	um...	um ...	um...	— O que	aquilo	é?
 
-# sent_id = Magalhaes1876:14:3:394
+# sent_id = Magalhaes1876:14:3:393
 # text_orig = xa	çộ	mahã.
 # text_por_gloss = eu	vou	ver.
 
-# sent_id = Magalhaes1876:14:4:395
+# sent_id = Magalhaes1876:14:4:394
 # text_orig = Iauaratẹ	omahã	ramé	ahé,	onhehẽ:	— Xa	iumunhã	quahá	itá	quára	opé;	xa	iumuturuçú ãna,	intí	xa cema	quáu.
 # text_por_gloss = A onça	viu	quando	ela,	disse:	— Eu	fui feita	neste	de pedra	buraco	em;	eu	cresci,	e não	sair	posso.
 
-# sent_id = Magalhaes1876:14:5:396
+# sent_id = Magalhaes1876:14:5:395
 # text_orig = Rẹpitɨmũ será xa	iuúca	quahá	itá?
 # text_por_gloss = Tu me ajudas	a tirar	esta	pedra?
 
-# sent_id = Magalhaes1876:14:6:397
+# sent_id = Magalhaes1876:14:6:396
 # text_orig = Mɨcúra	opɨtɨmũ ahé;	iauaraté	ocệma;	mɨcúra	opuranũ	i	xuí:	— Mãháta	rẹmehẽ	ixệ	arãma	cẹcuiára?
 # text_por_gloss = A raposa	ajudou-a;	a onça	saiu;	a raposa	perguntou	a	ela:	— O que	tu dás	eu	a	em paga?
 
-# sent_id = Magalhaes1876:14:7:398
+# sent_id = Magalhaes1876:14:7:397
 # text_orig = Iauaratệ,	oiumacɨ	oikộ	uahá,	oçuaxàra:	— Xa	ço	xa u	indệ.
 # text_por_gloss = A onça,	faminta	estava	que,	respondeu:	— Eu	vou	comer	você.
 
-# sent_id = Magalhaes1876:14:8:399
+# sent_id = Magalhaes1876:14:8:398
 # text_orig = Opicɨca ãna	mɨcúra,	opuranú:	— Mãháta	míra	omehẽ	auá	çupé	omunhã	catú,	rẹcuiára?
 # text_por_gloss = Agarrou	a raposa,	e perguntou:	— O que	se	dá	quem	a	faz	bem,	em paga?
 
-# sent_id = Magalhaes1876:14:9:400
+# sent_id = Magalhaes1876:14:9:399
 # text_orig = Mɨcura	oçuaxára:	— Auá çupé omunhã	catú,	recuiára,	míra	omehẽ	omunhã	catú.
 # text_por_gloss = A raposa	respondeu:	— A quem faz	bem,	em paga,	se	dá	o fazer	bem.
 
-# sent_id = Magalhaes1876:14:10:401
+# sent_id = Magalhaes1876:14:10:400
 # text_orig = Ikệ	nhộte (iunto)	oikộ	oiépé	apgáua,	oquáu	uahá	opaɨ	mahã;	iaçộ	iapuranú	ixuí.
 # text_por_gloss = Aqui	perto	mora	um	homem,	sabe	que	todas	as casas;	vamos	perguntou	a ele.
 
-# sent_id = Magalhaes1876:14:11:402
+# sent_id = Magalhaes1876:14:11:401
 # text_orig = Aitá	oiaçáu	oiepé	cãpuũ-mirĩ	kẹtệ,	mɨcúra	ombẽu	apgáua	çupé,	ahé	oiuúca	uahá	iauaraté	itá	quára	cuí,	iauaraté	óú	putári	ahé.
 # text_por_gloss = Elas	atravessaram	uma	ilha pequena	para,	a raposa	narrou	homem	ao,	ela	tirara	que	a onça	de pedra	buraco	do,	a onça	comer	queria	ela.
 
-# sent_id = Magalhaes1876:14:12:403
+# sent_id = Magalhaes1876:14:12:402
 # text_orig = Iauaraté	onhehẽ:	— Xá	u	putári	ahé,	maharecệ	míra	omehẽ	omunhã puxí	rẹcuiára	omunhã catú.
 # text_por_gloss = A onça	disse:	— Eu	comer	quero	ela,	porque	a gente	dá	o mal	em troco	do bem.
 
-# sent_id = Magalhaes1876:14:13:404
+# sent_id = Magalhaes1876:14:13:403
 # text_orig = Apgauá	onhehẽ:	— Intí	çupí.
 # text_por_gloss = O homem	disse:	— Não é	certo.
 
-# sent_id = Magalhaes1876:14:14:405
+# sent_id = Magalhaes1876:14:14:404
 # text_orig = Iaçộ	iamahã	arãma	nẹ	róca.
 # text_por_gloss = Vamos	ver	para	tua	cova.
 
-# sent_id = Magalhaes1876:14:15:406
+# sent_id = Magalhaes1876:14:15:405
 # text_orig = Aitá	muçapɨre	oçộãna	omahã	arãma.
 # text_por_gloss = Eles	três	foram	ver	para.
 
-# sent_id = Magalhaes1876:14:16:407
+# sent_id = Magalhaes1876:14:16:406
 # text_orig = Aitá	ocɨka	ramé,	apgáua	onhehẽ	iauaraté	çupé:	— Rẹiumundệo	iuɨre	xa	mahã	arãma	maí	rẹikộãna.
 # text_por_gloss = Eles	chegaram	quando,	o homem	disse	onça	a:	— Encova-te	de novo	eu	ver	para	como	tu estavas.
 
-# sent_id = Magalhaes1876:14:17:408
+# sent_id = Magalhaes1876:14:17:407
 # text_orig = Iauaraté	oiumunệo;	opgáua	omuieréo	itá	árupí;	iauáraté	intí	oçệma	quáu.
 # text_por_gloss = A onça	encovou-se;	o homem	rolou	a pedra	ela sobre;	a onça	não	sair	pộde.
 
-# sent_id = Magalhaes1876:14:18:409
+# sent_id = Magalhaes1876:14:18:408
 # text_orig = Araméãna	apgáua	onhehẽ:	— Cuhɨre	rẹquáu	rameãma:	míra	omehẽ	munhã catú	rẹcuiára	munhã catú.
 # text_por_gloss = Então	o homem	disse:	— Agora	tu sabendo	ficastes:	a gente	dá	o bem	em troco	do bem.
 
-# sent_id = Magalhaes1876:14:19:410
+# sent_id = Magalhaes1876:14:19:409
 # text_orig = Iauaraté	opɨtá	ápe;	amũ	itá	oçộãna.
 # text_por_gloss = A onça	ficou	lá;	os	outros	foram-se.
 

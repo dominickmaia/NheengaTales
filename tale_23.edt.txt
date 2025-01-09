@@ -1,219 +1,219 @@
 # title_orig = CẹIUCɨ	MOMEUACAUA	RẹCẹUARA
 # title_por_orig = Da velha gulosa	lenda	acerca
 
-# sent_id = Magalhaes1876:23:1:505
+# sent_id = Magalhaes1876:23:1:504
 # text_orig = Curumɨ uaçú,	ipahá,	opinaitíca	oikộ ãna	pirá	mɨtá	arúpi;	oúri	(Ceiucɨ,	uáimɨ	tiára)	opɨçáitíca	pirá	ɨgarapé	rupí;	ahé	omahã	curumɨ uaçú	ậnga	ɨpɨpe,	opupệca	pɨçá	irúmo;	intí	opuú	curumɨ uaçú.
 # text_por_gloss = Um moço,	contam que,	pescando	estava	peixe	de um mutá	de cima;	veio	(Plêiades,	velha	gulosa)	pescando com	tarrafa	igarapé	pelo;	ela	avistou	do moço	a sombra	no fundo,	cobriu-a	rede	com;	não	apanhou	o moço.
 
-# sent_id = Magalhaes1876:23:2:506
+# sent_id = Magalhaes1876:23:2:505
 # text_orig = Curumɨ uaçú	omahã	ramé	nhahã,	opucá	mɨtá	ára çuí.
 # text_por_gloss = O moço	viu	quando	aquilo,	riu-se	do mutá	de cima.
 
-# sent_id = Magalhaes1876:23:3:507
+# sent_id = Magalhaes1876:23:3:506
 # text_orig = Uáimɨ	tiára	onhehẽ:	— A'pe	será	rẹikộ?
 # text_por_gloss = A velha	gulosa	disse:	— Aí	é que	estás?
 
-# sent_id = Magalhaes1876:23:4:508
+# sent_id = Magalhaes1876:23:4:507
 # text_orig = Rẹuiệ	ɨuɨ	kẹtệ,	cẹ	rẹmiárerú.
 # text_por_gloss = Desce	o chão	para,	meu	neto.
 
-# sent_id = Magalhaes1876:23:5:509
+# sent_id = Magalhaes1876:23:5:508
 # text_orig = Curumɨ uaçú	oçuaxára:	— Ixệ	tío!
 # text_por_gloss = O moço	respondeu:	— Eu	não!
 
-# sent_id = Magalhaes1876:23:6:510
+# sent_id = Magalhaes1876:23:6:509
 # text_orig = Uáimɨ	onhehẽ:	— Xiá curí	xa	mumí	aápe	cáua!
 # text_por_gloss = A velha	disse:	— Olha	que eu	mandarei	lá	maribondos!
 
-# sent_id = Magalhaes1876:23:7:511
+# sent_id = Magalhaes1876:23:7:510
 # text_orig = Ahé	omunú ãna.
 # text_por_gloss = Ela	mandou-os.
 
-# sent_id = Magalhaes1876:23:8:512
+# sent_id = Magalhaes1876:23:8:511
 # text_orig = Curumɨ uaçú	ũpệna	iepé	çacãnga	mirĩ;	oiúcá	cáua itá.
 # text_por_gloss = O moço	quebrou	um	ramo	pequeno;	matou	os maribondos.
 
-# sent_id = Magalhaes1876:23:9:513
+# sent_id = Magalhaes1876:23:9:512
 # text_orig = Uáimɨ	onhehẽ:	— Reuié,	cẹ	remiarerú,	curumũ	xa	munú	tucandɨra.
 # text_por_gloss = A velha	disse:	— Desce,	meu	neto,	senão	eu	mando	tocandira.
 
-# sent_id = Magalhaes1876:23:10:514
+# sent_id = Magalhaes1876:23:10:513
 # text_orig = Curumɨ uaçú	intí	oiệ;	ahé	omunú	tucandɨra itá;	quahá itá	ombúri ahé	ɨ	pupé;	uáimĩ	oiapí	pɨçá	ahé	rẹcệ,	opupéca	rẹtệ ahé,	oraçộ	çóka	kẹtệ.
 # text_por_gloss = O moço	não	desceu;	ela	mandou	tocandiras;	estas	puseram-no	água	em;	a velha	jogou	a tarrafa	ele	sobre,	envolveu-o	perfeitamente,	levou-o	sua casa	para.
 
-# sent_id = Magalhaes1876:23:11:515
+# sent_id = Magalhaes1876:23:11:514
 # text_orig = Ocɨka	ramé	aápe,	oxári	curumɨ uaçú	ocára	opé,	oçộ	omunhã	iepẹá.
 # text_por_gloss = Chegou	quando	lá,	deixou	o moço	terreiro	no,	foi	fazer	lenha.
 
-# sent_id = Magalhaes1876:23:12:516
+# sent_id = Magalhaes1876:23:12:515
 # text_orig = Çacaquệra	oúri	embɨra,	onhehẽ:	— Quahá	cẹ	cɨ,	oúri	ramé	cahámunuçáua	çuí,	ombeú	mahã	ximiára	ahé	oiucá;	oií	intí	ombeú...
 # text_por_gloss = Atrás dela	veio	a filha,	e disse:	— Esta	minha	mãe,	vem	quando	caçada	da,	conta	qual é	a caça	que ela	matou;	hoje	não	contou...
 
-# sent_id = Magalhaes1876:23:13:517
+# sent_id = Magalhaes1876:23:13:516
 # text_orig = Tenupá xa	mahã	raĩ	mãháta	ahé.
 # text_por_gloss = Deixa-me	olhar	ainda	o que	é.
 
-# sent_id = Magalhaes1876:23:14:518
+# sent_id = Magalhaes1876:23:14:517
 # text_orig = Aramé	ouimupupéca	pɨçá,	oxipiá	curumɨ uaçú.
 # text_por_gloss = Então	desembrulhou	a rede,	e viu	o moço.
 
-# sent_id = Magalhaes1876:23:15:519
+# sent_id = Magalhaes1876:23:15:518
 # text_orig = Curumɨ uaçú	onhehẽ	ixupé:	— Rẹiúmími ixệ.
 # text_por_gloss = O moço	disse	a ela:	— Esconde-me.
 
-# sent_id = Magalhaes1876:23:16:520
+# sent_id = Magalhaes1876:23:16:519
 # text_orig = Cunhã mucú	oiumími ahé;	omutuúma	inuá	iráitĩ	irúmo,	opupéca	pɨçá	irúmo,	oxári	cenáua	opé	tenhẽ.
 # text_por_gloss = A moça	escondeu-o;	untou	um pilão	cera	com,	embrulhou-o	tarrafa	com,	deixou-o	lugar	no	mesmo.
 
-# sent_id = Magalhaes1876:23:17:521
+# sent_id = Magalhaes1876:23:17:520
 # text_orig = Aramé	uáimĩ	ocẽma	cahá	çuí,	omundɨca	tatá	mukaẽ	uɨrpi.
 # text_por_gloss = Então	a velha	saiu	mato	do,	acendeu	fogo	do muquém	embaixo.
 
-# sent_id = Magalhaes1876:23:18:522
+# sent_id = Magalhaes1876:23:18:521
 # text_orig = Inuá	oçacú ãna,	iraitĩ	oitɨcú ãna;	uáimĩ	oçuãtí.
 # text_por_gloss = O pilão	esquentando-se,	a cera	derreteu-se;	a velha	aparou.
 
-# sent_id = Magalhaes1876:23:19:523
+# sent_id = Magalhaes1876:23:19:522
 # text_orig = Tatá	oçapɨ ãna	pɨçá,	oiuquáu ãna	inúa.
 # text_por_gloss = O fogo	queimou	a tarrafa,	aparaceu	o pilão.
 
-# sent_id = Magalhaes1876:23:20:524
+# sent_id = Magalhaes1876:23:20:523
 # text_orig = Aramé	uáimĩ	onhehẽ	i	embɨra	çupé:	— Indệ	intí	remukamehẽ	ramé	cẹrẹmiára,	xa	iucá curí indệ!
 # text_por_gloss = Então	a velha	disse	sua	filha	a:	— Tu	não	mostrares	se	a minha caça,	eu	matar-te-ei!
 
-# sent_id = Magalhaes1876:23:21:525
+# sent_id = Magalhaes1876:23:21:524
 # text_orig = Cunhã mucú	ocekɨiéãna,	omunú	curumɨ uaçú	munúca	uaçahɨ	ráua,	omunhã	arãma	panacú;	nhanhã	panacú itá	oierệo	arãma	opáĩ	çuú	arãma.
 # text_por_gloss = A moça	ficou com medo,	mandou	o moço	cortar	de uaçaí	palmas,	fazer	para	cestos;	estes	cestos	virarem-se	para	todos	animais	em.
 
-# sent_id = Magalhaes1876:23:22:526
+# sent_id = Magalhaes1876:23:22:525
 # text_orig = Uaĩmĩ	oçộãna	çacaquệra,	ocɨka	ramé,	curumiuaçú	omunú	panacú	itá oiẽreo	tapiíra,	cuaçú,	taiaçú,	opaĩ	çuu	arãma;	oierệo uãna.
 # text_por_gloss = A velha	foi	atrás,	chegou	quando,	o moço	mandou	os cestos	virarem-se	em antas,	veados,	porcos,	todas	as caças	em;	viraram-se.
 
-# sent_id = Magalhaes1876:23:23:527
+# sent_id = Magalhaes1876:23:23:526
 # text_orig = Uaĩmĩ	tiára	ộúãna	aitá.
 # text_por_gloss = A velha	gulosa	comeu	todos.
 
-# sent_id = Magalhaes1876:23:24:528
+# sent_id = Magalhaes1876:23:24:527
 # text_orig = Curumiuaçú,	omahã	ramé	tẹmiú	quaiaɨra,	oiáuáuãna;	omunhãna	matapí	mamé	oári	rẹtệ,	uahá,	pirá.
 # text_por_gloss = O moço,	viu	quando	a comida	pouca,	fugiu;	fez	um matapi	onde	caiu	muito	que,	peixe.
 
-# sent_id = Magalhaes1876:23:25:529
+# sent_id = Magalhaes1876:23:25:528
 # text_orig = Uaimĩ	ocɨka	ramé	ápe,	oikệ	matapí	pupé.
 # text_por_gloss = A velha	chegou	quando	ali,	entrou	do matapi	dentro.
 
-# sent_id = Magalhaes1876:23:26:530
+# sent_id = Magalhaes1876:23:26:529
 # text_orig = Curumiuaçú	muçãtí	iépé	maraiá	ɨua.
 # text_por_gloss = O moço	expontou	um	de marajá	pão.
 
-# sent_id = Magalhaes1876:23:27:531
+# sent_id = Magalhaes1876:23:27:530
 # text_orig = Uaĩmi	óú	oikộ,	ramé,	pirá,	ocutúca ahé,	oiauáu uãna.
 # text_por_gloss = A velha	comendo	estava,	quando,	peixe,	ele feriu-a,	e fugiu.
 
-# sent_id = Magalhaes1876:23:28:532
+# sent_id = Magalhaes1876:23:28:531
 # text_orig = Cunhã mucú	onhehẽ	ixupé:	— Rẹcenõ	ramé	oiepé	uirá	onheẽgári	kankán,	kankận,	kankán,	cẽ	cɨ	uahá	intimahã	oikộ	pucú	opicɨca	arãma	indệ.
 # text_por_gloss = A moça	disse	a ele:	— Tu ouvires	quando	um	pássaro	cantar	kan kán,	kan kán,	kan kán,	é minha	mãe	a qual	não	está	longe	pegar	para	você.
 
-# sent_id = Magalhaes1876:23:29:533
+# sent_id = Magalhaes1876:23:29:532
 # text_orig = Curumɨ uaçú	uatá,	uatá,	uatá.
 # text_por_gloss = O moço	andou,	andou,	andou.
 
-# sent_id = Magalhaes1876:23:30:534
+# sent_id = Magalhaes1876:23:30:533
 # text_orig = Ahe	ocenõ ãna	ramé:	kankãn,	unhậna,	ocɨka	mamé	makáka ita	omunhã	oikộ	íra,	onhehẽ ixupệ:	— Rẹiúmími íxệ,	makáka?
 # text_por_gloss = Ele	ouviu	quando:	kankán,	correu,	chegou	onde	os macacos	fazendo	estavam	mel,	disse-lhes:	— Escondam-me,	macacos?
 
-# sent_id = Magalhaes1876:23:31:535
+# sent_id = Magalhaes1876:23:31:534
 # text_orig = Makáka	omunệo ahé	oiepé	camutĩ	ipộraɨma	pupé.
 # text_por_gloss = Os macacos	meteram-no de	um	pote	vazio	dentro.
 
-# sent_id = Magalhaes1876:23:32:536
+# sent_id = Magalhaes1876:23:32:535
 # text_orig = Uaĩmĩ	ocɨka,	intí	uacệmo	curumĩ uaçú,	oçaçáu	tenoné	kẹtệ.
 # text_por_gloss = A velha	chegou,	não	encontrou	o moço,	passou	adiante	para.
 
-# sent_id = Magalhaes1876:23:33:537
+# sent_id = Magalhaes1876:23:33:536
 # text_orig = Ariré	makáka	omunú	curumɨ uaçú	oçộ	uãna.
 # text_por_gloss = Depois	os macacos	mandaram	o moço	ir-se	embora.
 
-# sent_id = Magalhaes1876:23:34:538
+# sent_id = Magalhaes1876:23:34:537
 # text_orig = Curamɨ uaçú	uatá,	uatá,	uatá;	ocenõ:	kankán,	kankán,	kankán;	ahé	ocɨka	çurucucú	ộca	opé,	oiururé ixuí	oiumímí	arãma	ahé.
 # text_por_gloss = O moço	andou,	andou,	andou;	ouviu:	kankán,	kankán,	kankán;	ele	chegou	do surucucu	casa	em,	pediu-lhe	esconder	para	ele.
 
-# sent_id = Magalhaes1876:23:35:539
+# sent_id = Magalhaes1876:23:35:538
 # text_orig = Çurucucú	oiumími ãna ahé.
 # text_por_gloss = O surucucu	escondeu-o.
 
-# sent_id = Magalhaes1876:23:36:540
+# sent_id = Magalhaes1876:23:36:539
 # text_orig = Uaimĩ	ocɨka,	intimahã	uacệmo,	ocộuãna.
 # text_por_gloss = A velha	chegou,	não	o encontrou,	foi-se.
 
-# sent_id = Magalhaes1876:23:37:541
+# sent_id = Magalhaes1876:23:37:540
 # text_orig = Caárúca ramé	curumĩuaçú	ocenõ	çurucucú	apurunguetá	oikộ	i	xemericó	irúmo,	omunhã	arãma	mukaẽ,	aitá	óú	arãma	curumĩuaçú.
 # text_por_gloss = De tarde	o moço	ouviu	o surucucu	conversando	estava	sua	mulher	com,	fazerem	para	um muquém,	eles	comerem	para	o moço.
 
-# sent_id = Magalhaes1876:23:38:542
+# sent_id = Magalhaes1876:23:38:541
 # text_orig = Aitá	omunhã	ramé	oikộ	mukae,	onhehenári	oiepé	makãuã.
 # text_por_gloss = Eles	fazendo	quando	estavam	o muquém,	cantou	um	macauã.
 
-# sent_id = Magalhaes1876:23:39:543
+# sent_id = Magalhaes1876:23:39:542
 # text_orig = Curumiauçú	onhehẽ:	— Ah!	cẹ	ramuía	makãuã,	tenupá	xa	nhehẽ	nẹ	irúmu.
 # text_por_gloss = O moço	disse:	— Ah!	meu	avộ	macauã,	deixa	que eu	fale	você	com.
 
-# sent_id = Magalhaes1876:23:40:544
+# sent_id = Magalhaes1876:23:40:543
 # text_orig = Makauã	ocẹnõ,	oúri,	opuranú:	— Mãháta	ahé,	cẹ	rẹmiárerú?
 # text_por_gloss = O macauã	ouviu,	veio,	e perguntou:	— O que	é,	meu	neto?
 
-# sent_id = Magalhaes1876:23:41:545
+# sent_id = Magalhaes1876:23:41:544
 # text_orig = Curumiauçú	oçuaxára:	— Aiqué	mokõĩ	çurucucú	óú	putári	uahá	ixệ.
 # text_por_gloss = O moço	respondeu:	— Há	dois	surucucus	comer	querem	que	eu.
 
-# sent_id = Magalhaes1876:23:42:546
+# sent_id = Magalhaes1876:23:42:545
 # text_orig = Makãuã	opuranú	múɨre	cẹmutíma tahá	orekộ?
 # text_por_gloss = O macauã	perguntou	quantos	esconderijos	eles tinham?
 
-# sent_id = Magalhaes1876:23:43:547
+# sent_id = Magalhaes1876:23:43:546
 # text_orig = Curumiuaçú	oçuaxára:	— Iepé	iúnto.
 # text_por_gloss = O moço	respondeu:	— Um	somente.
 
-# sent_id = Magalhaes1876:23:44:548
+# sent_id = Magalhaes1876:23:44:547
 # text_orig = Makãuã	óú ãna	mokộĩ	çurucucú.
 # text_por_gloss = O macauã	comeu	os dois	surucucus.
 
-# sent_id = Magalhaes1876:23:45:549
+# sent_id = Magalhaes1876:23:45:548
 # text_orig = Curumiuaçú	oiaçáu	nhúme	çuaxára	kẹtệ,	oiuiuanti	iepé	tuiúiú	irúmo,	opinaitíca	oikộ	pírá,	oenũ	oikộ	uaturá	pupé.
 # text_por_gloss = O moço	passou	do campo	banda	para,	encontrou	um	tuiúiú	com,	pescando	estava	peixe,	pondo	estava	aturá	em.
 
-# sent_id = Magalhaes1876:23:46:550
+# sent_id = Magalhaes1876:23:46:549
 # text_orig = Curumiuaçú	aiururẽ	ixuí	oraçộ	arãma	ahé.
 # text_por_gloss = O moço	pediu	a ele	levar	para	ele.
 
-# sent_id = Magalhaes1876:23:47:551
+# sent_id = Magalhaes1876:23:47:550
 # text_orig = Tuiuiú	opinaítica	páua	ramé ãna,	omunũ	curumiuaçú	opúri	arãma	uaturá	pupé,	uệuệu	ahé	irúmo,	oenũ	ahé	mirá	uaçú	raçậnga	rẹcệ,	intí	oquáu	oraçộ ahé	tenoné.
 # text_por_gloss = O tuiuiú	de pescar	acabou	quando,	mandou	o moço	pular	para	aturá	em,	voou	ele	com,	pôs	ele	de árvore	grande	galho	sobre,	não	pôde	levá-lo	adiante.
 
-# sent_id = Magalhaes1876:23:48:552
+# sent_id = Magalhaes1876:23:48:551
 # text_orig = Iuaté çuí	curumiuaçú	omahã	iepé	ộca;	oié	oçộana.
 # text_por_gloss = De cima	o moço	viu	uma	casa;	desceu	e foi.
 
-# sent_id = Magalhaes1876:23:49:553
+# sent_id = Magalhaes1876:23:49:552
 # text_orig = Ocɨka	cupixáua	remehɨpe,	ocẹnõ	cunhã	oiacáu	oikộ	acutí	irúmo	intí	arãma	óú	i	maniáca.
 # text_por_gloss = Chegou	da roça	beira na,	ouviu	uma mulher	ralhando	estava	cutia	com	não	para	comer	sua	mandioca.
 
-# sent_id = Magalhaes1876:23:50:554
+# sent_id = Magalhaes1876:23:50:553
 # text_orig = Cunhã	oraçộ	curumĩ uaçú	çộca	kẹtệ;	ocɨka	ramé	aápe,	ahé	opuranú	ixuí:	mamé	çuí	tahá	ahé	oúri.
 # text_por_gloss = A mulher	levou	o moço	sua casa	para;	chegou	quando	lá,	ela	perguntou	a ele:	onde	de	que	ele	vinha.
 
-# sent_id = Magalhaes1876:23:51:555
+# sent_id = Magalhaes1876:23:51:554
 # text_orig = Curumĩ uaçú	ombeú	opaĩ	mahã,	maí	ahé	oçarú	oikộ	pirá	ɨgarapé	remehɨpe,	oúri ãna	uaimĩ	tiára	oraçộ	ahé	çộca	kẹtệ,	curumĩ	ramé	raĩ	ahé.
 # text_por_gloss = O moço	narrou	todas	as coisas,	como	ele	esperando	estava	peixe	do igarapé	margem na,	veio	a velha	gulosa,	levou	ele	sua casa	para,	menino	quando	ainda era	ele.
 
-# sent_id = Magalhaes1876:23:52:556
+# sent_id = Magalhaes1876:23:52:555
 # text_orig = Cuhɨre	tuiué	ãna,	murutínga	i	akãga.
 # text_por_gloss = Agora	velho já	estava,	branca	sua	cabeça;
 
-# sent_id = Magalhaes1876:23:53:557
+# sent_id = Magalhaes1876:23:53:556
 # text_orig = Cunhã	omanuári	cẹcệ,	oquáu ãna	embɨra ahé.
 # text_por_gloss = A mulher	lembrou-se	dele,	e conhecem	que era seu filho.
 
-# sent_id = Magalhaes1876:23:54:558
+# sent_id = Magalhaes1876:23:54:557
 # text_orig = Curumĩ uaçú	oikệ	çóca	kẹtệ.
 # text_por_gloss = O moço	entrou	sua casa	para.
 

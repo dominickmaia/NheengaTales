@@ -1,43 +1,43 @@
 # title_orig = IAUTI	IAURAETE
 # title_por_orig = O jabuti e	a onça
 
-# sent_id = Magalhaes1876:03:1:92
+# sent_id = Magalhaes1876:03:1:91
 # text_orig = Iáutí	oçacẽma: — Cẹ	anãma itá!
 # text_por_gloss = Jabuti	gritou: — Meus	parentes!
 
-# sent_id = Magalhaes1876:03:2:93
+# sent_id = Magalhaes1876:03:2:92
 # text_orig = Cẹ	anãma itá,	iúre!
 # text_por_gloss = Meus	parentes,	venham!
 
-# sent_id = Magalhaes1876:03:3:94
+# sent_id = Magalhaes1876:03:3:93
 # text_orig = Iauárẹtệ	ocenõ,	oçộ	a	kẹtệ,	opuranú: — Mãnháta	reçacẽma	rẹikộ,	Iauti?
 # text_por_gloss = A onça	ouviu,	foi	lá	para,	perguntou: — O que	tu gritando	estás,	jabuti?
 
-# sent_id = Magalhaes1876:03:4:95
+# sent_id = Magalhaes1876:03:4:94
 # text_orig = Iauti	ocuaxára: — Xa	cenõin	xa	ikộ	cẹ	anãma itã	oú	arãma	cẹrẹmiára	uaçú	tapiíra.
 # text_por_gloss = O jabuti	respondeu: — Eu	chamando	eu	estou	meus	parentes	comerem	para	minha caça	grande	a anta.
 
-# sent_id = Magalhaes1876:03:5:96
+# sent_id = Magalhaes1876:03:5:95
 # text_orig = Iauarẹtệ	onhehẽ: — Rẹputári	xa	muĩ	tapiíra	indẹ	arãma?
 # text_por_gloss = A onça	disse: — Tu queres que	eu	parta	a anta	você	para?
 
-# sent_id = Magalhaes1876:03:6:97
+# sent_id = Magalhaes1876:03:6:96
 # text_orig = Iautí	onhehẽ: — Xa	putári:	rẹmunúca	iépe	çuaxára	inẹ	arãma;	amũ,	ixé	arãma.
 # text_por_gloss = Jabuti	disse: — Eu	quero:	tu separes	uma	banda	ti	para;	outra	mim	para.
 
-# sent_id = Magalhaes1876:03:7:98
+# sent_id = Magalhaes1876:03:7:97
 # text_orig = Iauarẹtệ	onhehẽ: — Aramé	rẹçộ	rẹiúúca	iẹpeá.
 # text_por_gloss = A onça	disse: — Então	vá	tirar	lenha.
 
-# sent_id = Magalhaes1876:03:8:99
+# sent_id = Magalhaes1876:03:8:98
 # text_orig = Iauti	oçộ	pucuçáua,	iáuárẹtệ	oçupíri	iximiára,	ộiáuáu.
 # text_por_gloss = O jabuti	foi	em quanto que,	a onça	carregou	dele a caça,	e fugiu.
 
-# sent_id = Magalhaes1876:03:9:100
+# sent_id = Magalhaes1876:03:9:99
 # text_orig = Iautí	ocɨka	ramé	uacệma	nhúnto ậna	tiputí,	ộiákáu	iauárẹtệ	irúmo,	onhehẽ:	— Tenupá!
 # text_por_gloss = O jabuti	chegou	quando	encontrou	apenas	fezes,	ralhou	onça	com,	disse:	— Deixa estar!
 
-# sent_id = Magalhaes1876:03:10:101
+# sent_id = Magalhaes1876:03:10:100
 # text_orig = — Amuára	xa	iúiuantí curí	nẹ	irúmo.
 # text_por_gloss = — Algum dia	eu	me encontrarei	você	com.
 

@@ -1,39 +1,39 @@
 # title_orig = MICÚRA	IAUARATÉ
 # title_por_orig = A raposa e	a onça
 
-# sent_id = Magalhaes1876:21:1:469
+# sent_id = Magalhaes1876:21:1:468
 # text_orig = Iauaraté	onhehẽ:	— Xa	çộ xa	iumanõ;	opaĩ	çọộ itá	oúri,	curí omahã	arãma	çupí	ramé.
 # text_por_gloss = A onça	disse:	— Eu	vou	fazer-me de morta;	todos	os animais	virão,	ver	para	verdade	se é.
 
-# sent_id = Magalhaes1876:21:2:470
+# sent_id = Magalhaes1876:21:2:469
 # text_orig = Mɨcúra	oúri	curí	tenhẽ;	aramé	xa	picɨka curí ahé.
 # text_por_gloss = A raposa	há de	vir	também;	então	eu	apanhá-la-ei.
 
-# sent_id = Magalhaes1876:21:3:471
+# sent_id = Magalhaes1876:21:3:470
 # text_orig = Çọộ itá	oquáu	ramé	iauaraté	omanõ ãna,	oçộ ãna,	oikệ ãna	i	quára	pupé;	aitá	oçurí	páua	oçapucái:	— Iauaraté	omanũ	ãna;	quecatú	rẹtệ	Tupãna çupé;	ia	quáu	iauatá!
 # text_por_gloss = Os animais	souberam	quando	que a onça	morreu,	foram,	entraram	de sua	cova	dentro;	eles	alegres	todos	gritavam:	— A onça	morreu	já;	graças	sejam dadas	a Tupã;	já	podemos	passear!
 
-# sent_id = Magalhaes1876:21:4:472
+# sent_id = Magalhaes1876:21:4:471
 # text_orig = Mɨcúra	oúri	tenhẽ;	intí	oikệ	quára	pupé,	opuranú	okára çuí:	— Opinũ ãna será	ahé?
 # text_por_gloss = A raposa	veio	também;	não	entrou	cova	na,	e perguntou	de fora:	— Arrotou já	ela?
 
-# sent_id = Magalhaes1876:21:5:473
+# sent_id = Magalhaes1876:21:5:472
 # text_orig = Çọộ itá	oçuaxára:	— Intí	raĩ.
 # text_por_gloss = Os animais	responderam:	— Ainda	não.
 
-# sent_id = Magalhaes1876:21:6:474
+# sent_id = Magalhaes1876:21:6:473
 # text_orig = Mɨcúra	onhehẽ:	— Cẹ	ramúia	amɨra,	omanõ ãna	ramé,	opinũ	muçapɨraí.
 # text_por_gloss = A raposa	disse:	— Meu	avô	finado,	morreu	quando,	arrotou	três vezes.
 
-# sent_id = Magalhaes1876:21:7:475
+# sent_id = Magalhaes1876:21:7:474
 # text_orig = Iauaraté	ocenõ	ramé	mahã	mɨcúra	onhehẽ,	opinõ	muçapiri	í.
 # text_por_gloss = A onça	ouviu	quando	o que	a raposa	disse,	arrotou	três	vezes.
 
-# sent_id = Magalhaes1876:21:8:476
+# sent_id = Magalhaes1876:21:8:475
 # text_orig = Mɨcúra	ocenõ,	opucá,	onhehẽ:	— Penhẽ	pecenõ ãna será,	auá	omanũ ãna uahá,	opinũ?
 # text_por_gloss = A raposa	ouviu,	deu uma gargalhada,	e disse:	— Vocês	ouviram já,	quem	morreu,	arrotar?
 
-# sent_id = Magalhaes1876:21:9:477
+# sent_id = Magalhaes1876:21:9:476
 # text_orig = Catú	oii	iauaraté	intí	opicɨka	quáu	mɨcúra,	iacú rẹtệ	rẹcệ	ahé.
 # text_por_gloss = Até	hoje	a onça	não	apanhar	pôde	a raposa,	muito ladina	por ser	ela.
 

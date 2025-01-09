@@ -1,75 +1,75 @@
 # title_orig = CUNHÃ MUCU	OÇO	UAHÁ	OCICÁRI	MENA
 # title_por_orig = A moça	vai	que	procurar	marido
 
-# sent_id = Magalhaes1876:13a:1:346
+# sent_id = Magalhaes1876:13a:1:345
 # text_orig = CUNHÃ-MUCU	MɨCURA
 # text_por_gloss = A moça e o	gambá
 
-# sent_id = Magalhaes1876:13a:2:347
+# sent_id = Magalhaes1876:13a:2:346
 # text_orig = Oiepé	cunhã mucú	onhehẽ	i	cɨ	çupé:	— Xa	çộ xa	cicári	cẹ	mẽna,	xa	purarári	rẹtệ	iúmacɨ.
 # text_por_gloss = Uma	moça	disse	sua	mãe	à:	— Eu	vou	procurar	um	marido,	eu	estou padecendo	muito	de fome.
 
-# sent_id = Magalhaes1876:13a:3:348
+# sent_id = Magalhaes1876:13a:3:347
 # text_orig = Ahé	oçộ ãna,	ocɨka uãna	mamé	oikộ	moçapɨra	pé,	opuranú:	— Mãháta	inaié	pé?
 # text_por_gloss = Ela	foi-se,	chegou	aonde	havia	três	caminhos,	perguntou:	— Qual será	do inajé	o caminho?
 
-# sent_id = Magalhaes1876:13a:4:349
+# sent_id = Magalhaes1876:13a:4:348
 # text_orig = Oiepé	pé	upé,	ahé	omahã	inambú	ráua;	aramé	ahé	omaité uãna:	— Quahá	inaié	pé.
 # text_por_gloss = Um	caminho	em,	ela	viu	de inambús	penas;	então	ela	pensou:	— Este é	do inajé	o caminho.
 
-# sent_id = Magalhaes1876:13a:5:350
+# sent_id = Magalhaes1876:13a:5:349
 # text_orig = Oçộ uậna	ahé	rupí.
 # text_por_gloss = Foi-se	ele	sobre.
 
-# sent_id = Magalhaes1876:13a:6:351
+# sent_id = Magalhaes1876:13a:6:350
 # text_orig = Opauçápe	oiúiúantí	ộca	mamé	oikộ	oiepé	uáimɨ	uapɨca	oikộ	uahá	tatá	remehɨpe,	onhehẽ:	— Inệ	será	inaié	cɨ?
 # text_por_gloss = No fim	encontrou	casa	onde	estava	uma	velha	sentada,	estava	que	do fogo	na beira,	disse:	— Vocệ	é	do inajé	mãe?
 
-# sent_id = Magalhaes1876:13a:7:352
+# sent_id = Magalhaes1876:13a:7:351
 # text_orig = Uáimĩ	oçuaxára:	— Ixệ	ahé	tenhẽ.
 # text_por_gloss = A velha	respondeu:	— Eu sou	ela	mesma.
 
-# sent_id = Magalhaes1876:13a:8:353
+# sent_id = Magalhaes1876:13a:8:352
 # text_orig = Cunhã mucú	onhehẽ:	— Xa	iúre	ahé	pɨre	xa	mendári	arãma	ahé	irúmo.
 # text_por_gloss = A moça	disse:	— Eu	venho	ele	a	eu	casar	para	ele	com.
 
-# sent_id = Magalhaes1876:13a:9:354
+# sent_id = Magalhaes1876:13a:9:353
 # text_orig = Uáimĩ	onhehẽ:	— Cẹ	mbɨra	míra	puxí	rẹtệ	ahé;	aarệcệ	xa	çó	xa	iumími	inệ.
 # text_por_gloss = A velha	disse:	— Meu	filho é	gente	brava	muito	ele;	por isso	eu	vou	eu	esconder	você.
 
-# sent_id = Magalhaes1876:13a:10:355
+# sent_id = Magalhaes1876:13a:10:354
 # text_orig = Quahá	uáimĩ	intí	inaié	cɨ;	mɨcúra	cɨ	ahé.
 # text_por_gloss = Esta	velha	não era	do inajé	mãe;	do gambá era	mãe	ela.
 
-# sent_id = Magalhaes1876:13a:11:356
+# sent_id = Magalhaes1876:13a:11:355
 # text_orig = Caarúka	ramé	i	embɨra	ocɨka uãna,	orúri uãna	ximiára,	uirá itá.
 # text_por_gloss = Tarde	à	seu	filho	chegou,	trouxe	sua caça,	pássaros.
 
-# sent_id = Magalhaes1876:13a:12:357
+# sent_id = Magalhaes1876:13a:12:356
 # text_orig = I	cɨ	omungaturú	aitá	óú	arãma.
 # text_por_gloss = Sua	mãe	aprontou	eles	comerem	para.
 
-# sent_id = Magalhaes1876:13a:13:358
+# sent_id = Magalhaes1876:13a:13:357
 # text_orig = Aitá	óú	oikộ	ramé	i	cɨ	opuranú	ixuí:	— Ocɨka	ramé	oiepé	amú	tẹtãma	uára,	mãi	tahá	rệrekộ	ahé?
 # text_por_gloss = Eles	comendo	estavam	quando	sua	mãe	perguntou	a ele:	— Chegasse	se	um de	outra	pátria	habitante,	como	é que	tu terias (tratarias)	ele?
 
-# sent_id = Magalhaes1876:13a:14:359
+# sent_id = Magalhaes1876:13a:14:358
 # text_orig = Mɨcúra	oçuaxára:	— Xa	cenõĩ	ahé	óú	arãma	ianẹ	irúmo.
 # text_por_gloss = O gambá	respondeu:	— Eu	chamava	ele	comer	para	nós	com.
 
-# sent_id = Magalhaes1876:13a:15:360
+# sent_id = Magalhaes1876:13a:15:359
 # text_orig = Aramé	uáimĩ	ocenõĩ	cunhã mucú	oiumími	oikộ	uahá.
 # text_por_gloss = Então	a velha	chamou	a moça	escondida	estava	que.
 
-# sent_id = Magalhaes1876:13a:16:361
+# sent_id = Magalhaes1876:13a:16:360
 # text_orig = Cunhã mucú	óú ãna	aitá	irúmo;	mɨcúra	çộrí	oikộ	maharẹcệ	cunhã mucú	purãnga	rẹtệ.
 # text_por_gloss = A moça	comeu	eles	com,	o gambá	alegre	estava	porque	a moça	formosa	era muito.
 
-# sent_id = Magalhaes1876:13a:17:362
+# sent_id = Magalhaes1876:13a:17:361
 # text_orig = Pitúna	opé,	mɨcúra	oçộ	ramé	okệri	arãma	cunhã mucú	irúmo,	ahé	ompúãna	ahé,	onhehẽ:	— Intí	xa	ienõ	putári	nẹ	irúmo,	maharecè	inệma	rẹtệ-inẹ!
 # text_por_gloss = Noite	em,	o gambá	foi	quando	dormir	para	moça	com,	ela	enxotou	a ele,	disse:	— Não	eu	deitar	quero	tu	com,	porque	catinguento	muito é você!
 
-# sent_id = Magalhaes1876:13a:18:363
+# sent_id = Magalhaes1876:13a:18:362
 # text_orig = Coẽma	ramé,	uáimĩ	omundú	ramé	cunhã mucú	oiuúca	iepeá,	cunhã mucú	oiauáu ãna.
 # text_por_gloss = Manhã	em,	a velha	mandou	quando	a moça	tirar	lenha,	a moça	fugiu.
 

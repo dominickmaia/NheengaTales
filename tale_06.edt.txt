@@ -1,43 +1,43 @@
 # title_orig = IAUTI	IUIRI	IAUARAETÉ
 # title_por_orig = Jabuti	e de novo	a onça
 
-# sent_id = Magalhaes1876:06:1:152
+# sent_id = Magalhaes1876:06:1:151
 # text_orig = Iauaraẹtệ	oiuquáu	árúpi.
 # text_por_gloss = A onça	apareceu	por ali.
 
-# sent_id = Magalhaes1876:06:2:153
+# sent_id = Magalhaes1876:06:2:152
 # text_orig = Iauaraẹtệ	omahã	ɨuaté	kẹtệ	xipiá	iáutí	teté,	onhehẽ	quaié: — O' iáutí,	mahá	rupí	rẹiupíri?
 # text_por_gloss = A onça	olhou	cima	para	viu	o jabuti	coitado,	disse	assim: — O' jabuti,	por onde		tu subistes?
 
-# sent_id = Magalhaes1876:06:3:154
+# sent_id = Magalhaes1876:06:3:153
 # text_orig = Iáutí	oçuaxára: — I	ɨuá	ɨua	rupí.
 # text_por_gloss = Jabuti	respondeu: — Esta	de fruta	árvore	por.
 
-# sent_id = Magalhaes1876:06:4:155
+# sent_id = Magalhaes1876:06:4:154
 # text_orig = Iauaraẹtệ	iumacɨçáua	irúmo,	onhehẽ: — Rẹoiệãna!
 # text_por_gloss = A onça	fome	com,	replicou: — Desça!
 
-# sent_id = Magalhaes1876:06:5:156
+# sent_id = Magalhaes1876:06:5:155
 # text_orig = Iáutí	quaí	onhehẽ: —	Rẹçuantí	ixệ	aápe;	rẹpirári	nẹ	iúrú,	intí	arãma	xa	ári	ɨuɨpe.
 # text_por_gloss = O jabuti	assim	falou:	Apare	me	lá;	abra a	tua	boca,	não	para que	eu	caia	chão no.
 
-# sent_id = Magalhaes1876:06:6:157
+# sent_id = Magalhaes1876:06:6:156
 # text_orig = Iáutí	opúrianã,	otucá	iauaraẹtệ	tim;	omanũ	iuruparí.
 # text_por_gloss = O jabuti	pulou,	foi de encontro da	onça	ao focinho;	morreu	a diaba.
 
-# sent_id = Magalhaes1876:06:7:158
+# sent_id = Magalhaes1876:06:7:157
 # text_orig = Iáutí	oçarú	nhum	iúca	riré ãna,	oiuúca ãna	i	mẹmɨ.
 # text_por_gloss = O jabuti	esperou	até	apodrecer	depois de,	e tirou	sua	flauta.
 
-# sent_id = Magalhaes1876:06:8:159
+# sent_id = Magalhaes1876:06:8:158
 # text_orig = Aramé	iáutí	oçộ anã,	opeiú	i	mẹmɨ,	quaié	onheengári: — Iauaraẹtệ	cãuệra	ceremẹ	mɨ'.
 # text_por_gloss = Então	o jabuti	foi-se,	tocava	sua	flauta,	assim	cantava: — Da onça	o osso e	a minha	flauta.
 
-# sent_id = Magalhaes1876:06:9:160
+# sent_id = Magalhaes1876:06:9:159
 # text_orig = — ih!
 # text_por_gloss = — ih!
 
-# sent_id = Magalhaes1876:06:10:161
+# sent_id = Magalhaes1876:06:10:160
 # text_orig = — ih?
 # text_por_gloss = — ih?
 

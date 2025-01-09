@@ -1,59 +1,59 @@
 # title_orig = MICURA	APGAUA
 # title_por_orig = A raposa e	o homem
 
-# sent_id = Magalhaes1876:15:1:411
+# sent_id = Magalhaes1876:15:1:410
 # text_orig = Mɨcúra	oçộ	oíenõ	maárupí	apgáua	oçaçáu	arãma	uahá;	oiúmanũ.
 # text_por_gloss = A raposa	foi	detair-se	onde por	o homem	de passar	tinha	que;	fingiu-se de morta.
 
-# sent_id = Magalhaes1876:15:2:412
+# sent_id = Magalhaes1876:15:2:411
 # text_orig = Apgáua	oúri,	onhehẽ:	— Mɨcúra,	taité!
 # text_por_gloss = O homem	veio,	e disse:	— Raposa,	coitada!
 
-# sent_id = Magalhaes1876:15:3:413
+# sent_id = Magalhaes1876:15:3:412
 # text_orig = Omunhã	quára,	oiútɨma	ahé,	oçộ ãna.
 # text_por_gloss = Fez	cova,	enterrou	a,	e foi-se.
 
-# sent_id = Magalhaes1876:15:4:414
+# sent_id = Magalhaes1876:15:4:413
 # text_orig = Mɨcúra	ũiãna	cahá	rupí,	oçộ	oienẽn	tenoné	pépe,	oiumanõ ãna.
 # text_por_gloss = A raposa	correu	mato	pelo,	foi	deitar-se	adiante	no caminho,	e fingiu-se de morta.
 
-# sent_id = Magalhaes1876:15:5:415
+# sent_id = Magalhaes1876:15:5:414
 # text_orig = Apgáua	ocɨka	ramé,	onhehẽ:	— Mɨcura	ambɨra (amíra)	iuɨre!
 # text_por_gloss = O homem	veio	quando,	disse:	— Raposa	morta	outra vez!
 
-# sent_id = Magalhaes1876:15:6:416
+# sent_id = Magalhaes1876:15:6:415
 # text_orig = Omutɨríca	ahé	pé	çuí,	opupéca	cahá	irúmo,	oçộ ãna.
 # text_por_gloss = Retirou	a	caminho	do,	cobriu	folhas	com,	e seguiu.
 
-# sent_id = Magalhaes1876:15:7:417
+# sent_id = Magalhaes1876:15:7:416
 # text_orig = Mɨcúra	ũiậna (unhana)	iuɨre	iaɨtɨua	rupí,	oçộ	oienõ	tenoné	pépe.
 # text_por_gloss = A raposa	correu	outra vez	cerrado	pelo,	foi	deitar-se	adiante	no caminho.
 
-# sent_id = Magalhaes1876:15:8:418
+# sent_id = Magalhaes1876:15:8:417
 # text_orig = Apgáua	ocɨka	onhehẽ:	— Auáta	oiueá-íucá	quahá	mɨcúra itá?
 # text_por_gloss = O homem	chegou	e disse:	— Quem	andou matando	estas	raposas?
 
-# sent_id = Magalhaes1876:15:9:419
+# sent_id = Magalhaes1876:15:9:418
 # text_orig = Omutɨríca	ahé	pệ	çuí,	oçộ ãna.
 # text_por_gloss = Arredou	a	caminho	do,	e foi-se.
 
-# sent_id = Magalhaes1876:15:10:420
+# sent_id = Magalhaes1876:15:10:419
 # text_orig = Mɨcúra	ũiậna	iuɨre	iaɨtɨua	rupí,	oçộ	oienõ	tenoné	pépe,	ouimanõ ãna.
 # text_por_gloss = A raposa	correu	de novo	cerrado	pelo,	foi	deitar-se	adiante	no caminho,	fingiu-se de morta.
 
-# sent_id = Magalhaes1876:15:11:421
+# sent_id = Magalhaes1876:15:11:420
 # text_orig = Apgáua	ocɨka	ramé,	onhehẽ:	— Tatá	oçapí	opaĩ	rupí!
 # text_por_gloss = O homem	chegou	quando,	disse:	— Fogo	queima	tudo	sobre!
 
-# sent_id = Magalhaes1876:15:12:422
+# sent_id = Magalhaes1876:15:12:421
 # text_orig = Opɨcɨka	çuaia	racapíra	rupí,	oiapĩãna	mɨcúra	iaɨtɨua	rẹcệ.
 # text_por_gloss = Pegou	da cauda	ponta	pela,	jogou	a raposa	cerrado	sobre.
 
-# sent_id = Magalhaes1876:15:13:423
+# sent_id = Magalhaes1876:15:13:422
 # text_orig = Aramé	mɨcúra	onhehẽ:	—Intí	catú	iamumaraári	auá	çupé	omunhã	catú	uahá	ianệ	arãma.
 # text_por_gloss = Então	a raposa	disse:	— Não	é bom	caçarmos	quem	a	faz	bem	que	nós	a.
 
-# sent_id = Magalhaes1876:15:14:424
+# sent_id = Magalhaes1876:15:14:423
 # text_orig = Oçộ	ãna.
 # text_por_gloss = Foi-se	embora.
 

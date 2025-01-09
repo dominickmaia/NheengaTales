@@ -1,111 +1,111 @@
 # title_orig = AMU'	MOMẹUÇAUA	MɨCURA	RẹCẹUậRA
 # title_por_orig = Outras	lendas	da raposa	acerca
 
-# sent_id = Magalhaes1876:22:1:478
+# sent_id = Magalhaes1876:22:1:477
 # text_orig = Mɨcura	raɨíra	oiumẽndári	cinimũ.
 # text_por_gloss = Da raposa	a filha	casa-se	com o sinimbú.
 
-# sent_id = Magalhaes1876:22:2:479
+# sent_id = Magalhaes1876:22:2:478
 # text_orig = Cinimũ,	ipahá,	ocɨka	mɨcúra	rộca	opé.
 # text_por_gloss = O sinimbú,	contam,	chegou	da raposa	casa	em.
 
-# sent_id = Magalhaes1876:22:3:480
+# sent_id = Magalhaes1876:22:3:479
 # text_orig = — Nẹ	caárúca,	mɨcúra.
 # text_por_gloss = — Boas	tardes,	raposa.
 
-# sent_id = Magalhaes1876:22:4:481
+# sent_id = Magalhaes1876:22:4:480
 # text_orig = — Indaué;	rẹikệ,	rẹuapɨka;	mãháta	rẹmunhã	reikộ?
 # text_por_gloss = — As mesmas;	entre,	sente-se;	o que	fazendo	estás?
 
-# sent_id = Magalhaes1876:22:5:482
+# sent_id = Magalhaes1876:22:5:481
 # text_orig = — Intimahã	mahã;	xa	iúre	nẹ	pɨre.
 # text_por_gloss = — Nenhuma	coisa;	eu	venho	com vocệ	ter.
 
-# sent_id = Magalhaes1876:22:6:483
+# sent_id = Magalhaes1876:22:6:482
 # text_orig = — Mãháta	ahé?
 # text_por_gloss = — O que	há?
 
-# sent_id = Magalhaes1876:22:7:484
+# sent_id = Magalhaes1876:22:7:483
 # text_orig = — Ndệ	pa	rẹrệkộ	nẹ	raɨíra	cunhã mucú	ãna?
 # text_por_gloss = — Tu	por ventura	tens	tua	filha	moça	já?
 
-# sent_id = Magalhaes1876:22:8:485
+# sent_id = Magalhaes1876:22:8:484
 # text_orig = — Xa	rekộ.
 # text_por_gloss = — Eu	tenho.
 
-# sent_id = Magalhaes1876:22:9:486
+# sent_id = Magalhaes1876:22:9:485
 # text_orig = — Xa	iúre xa	iururé	cẹremirecộ	arãma.
 # text_por_gloss = — Eu	venho	pedí-la	minha mulher	para.
 
-# sent_id = Magalhaes1876:22:10:487
+# sent_id = Magalhaes1876:22:10:486
 # text_orig = Mɨcúra	ocenoĩ	i	raɨíra,	onhehẽ:	— Rẹmendári	putári	será	quahá	apgáua?
 # text_por_gloss = A raposa	chamou	sua	filha,	disse:	— Casar	queres	com	este	varão?
 
-# sent_id = Magalhaes1876:22:11:488
+# sent_id = Magalhaes1876:22:11:487
 # text_orig = Taɨíra	oçuaxára:	— Xa	putári.
 # text_por_gloss = A filha	respondeu:	— Eu	quero.
 
-# sent_id = Magalhaes1876:22:12:489
+# sent_id = Magalhaes1876:22:12:488
 # text_orig = — Aramé	kuçukúi uãna ahé,	rẹiumendàri.
 # text_por_gloss = — Então	ei-lo aí,	casem-se.
 
-# sent_id = Magalhaes1876:22:13:490
+# sent_id = Magalhaes1876:22:13:489
 # text_orig = Amú	ára	riré,	mɨcúra	ocenõĩ	i	raɨíra,	onhehẽ:	— Rẹnhehẽ	nẹ	mệna	çupé,	xa	ú	putári	pirá.
 # text_por_gloss = Outro	dia	depois,	a raposa	chamou	sua	filha,	e disse:	— Dizes	teu	marido	a,	que eu	comer	quero	peixe.
 
-# sent_id = Magalhaes1876:22:14:491
+# sent_id = Magalhaes1876:22:14:490
 # text_orig = Cunhã mucú	onhehẽ	i	ména	çupệ;	aitá	oiúruári ãna	igára	upé,	oçộ ãna	çuáindápe	kẹtệ.
 # text_por_gloss = A moça	disse	seu	marido	a;	eles	embarcaram-se	canoa	em,	foram	outra margem	a.
 
-# sent_id = Magalhaes1876:22:15:492
+# sent_id = Magalhaes1876:22:15:491
 # text_orig = Aitá	ocɨka,	cinimũ	omundú	ximirệcộ	oiuúca	xipó	ixupé.
 # text_por_gloss = Eles	chegaram,	o sinimbú	mandou	sua mulher	tirar	cipó	para ele.
 
-# sent_id = Magalhaes1876:22:16:493
+# sent_id = Magalhaes1876:22:16:492
 # text_orig = Ahé	oiupɨri	mɨrá	rẹcệ,	onhehẽ	ximirẹcộ	çupé:	— Remuatɨri	cahá	ceiía;	ceiía	ramé	ãna,	remundɨca	tatá	i	rẹcệ.
 # text_por_gloss = Ele	subiu	árvore	sobre,	disse	sua mulher	a:	— Amontoe	folha	muita;	muita	quando	tiver,	acenda	fogo	ela	sobre.
 
-# sent_id = Magalhaes1876:22:17:494
+# sent_id = Magalhaes1876:22:17:493
 # text_orig = Cunhã mucú	omunhã	maí	cinimú	omundú ãna.
 # text_por_gloss = A moça	fez	como	o sinimbú	mandou.
 
-# sent_id = Magalhaes1876:22:18:495
+# sent_id = Magalhaes1876:22:18:494
 # text_orig = Tatá	turuçú	ãna	ramé,	cinimũ	onhehẽ	ɨuaté çuí:	— Aiqué xa çộ!
 # text_por_gloss = O fogo	grande	já	quando,	o sinimbú	disse	de cima:	— Lá me vou!
 
-# sent_id = Magalhaes1876:22:19:496
+# sent_id = Magalhaes1876:22:19:495
 # text_orig = Opúri	tatá	pɨtệrape,	oiapumĩ	ɨ	pupé,	uíre	çuáindápe,	oçapucái	ximirẹcộ	rẹcệ:	— Rẹrúri	ɨgára,	pucɨ	rẹtệ	quahá	pirá!
 # text_por_gloss = Pulou	do fogo	meio em,	mergulhou	água	na,	baiou	do outro lado,	gritou	sua mulher	por:	— Traga	a canoa,	pesado	muito	é este	peixe!
 
-# sent_id = Magalhaes1876:22:20:497
+# sent_id = Magalhaes1876:22:20:496
 # text_orig = Aitá	oiuruári ãna	tucunaré	uaçú	irúmo,	oçộ ãna	çộka	kẹtệ;	aápe	cunhã mucú	omehẽ	nhahã	pirá	mɨcúra	çupé.
 # text_por_gloss = Eles	embarcaram-se	tucunaré	grande	com,	foram-se	sua casa	para;	lá	a moça	deu	esse	peixe	raposa	a.
 
-# sent_id = Magalhaes1876:22:21:498
+# sent_id = Magalhaes1876:22:21:497
 # text_orig = Mɨcúra	opuranú	maí	i	mệna	opicɨka uãna	pirá.
 # text_por_gloss = A raposa	perguntou	como	seu	marido	pegara	o peixe.
 
-# sent_id = Magalhaes1876:22:22:499
+# sent_id = Magalhaes1876:22:22:498
 # text_orig = Cunhã mucú	ombeú	ixupé	maí	cinímú	omunhãna.
 # text_por_gloss = A moça	narrou	a ela	como	o sinimbú	fez.
 
-# sent_id = Magalhaes1876:22:23:500
+# sent_id = Magalhaes1876:22:23:499
 # text_orig = Amú	ára	opé,	mɨcúra	onhehẽ	ximirẹcộ	çupé:	— Iaçộ	iapɨcɨka	pirá,	maiaué	cinimũ	opicɨka	uãna.
 # text_por_gloss = Outro	dia	em,	a raposa	disse	sua mulher	a:	— Vamos	apanhar	peixe,	como	o	sinimbú	apanhou.
 
-# sent_id = Magalhaes1876:22:24:501
+# sent_id = Magalhaes1876:22:24:500
 # text_orig = Aitá	oçộ ãna;	uáimĩ	omundɨca	tatá,	mɨcúra	opúri	pitệrape;	intí	oçaçáu	quáu;	tatá	oçaberệca	oikộ	i	pirệra;	mɨcúra	oçacệma:	— Uáimĩ!	rẹruri	curutẽ	ɨ!
 # text_por_gloss = Eles	foram;	a velha	acendeu	fogo,	a raposa	saltou	meio em;	não	passar	pôde;	o fogo	sapecando	estava	sua	pele;	a raposa	gritou:	— Velha!	trazes	depressa	água!
 
-# sent_id = Magalhaes1876:22:25:502
+# sent_id = Magalhaes1876:22:25:501
 # text_orig = Curumú	xa manõ!
 # text_por_gloss = Senão	eu morro!
 
-# sent_id = Magalhaes1876:22:26:503
+# sent_id = Magalhaes1876:22:26:502
 # text_orig = Iuaçúuára	ahé	ocệma	quáu.
 # text_por_gloss = Dificilmente	ela	sair	pôde.
 
-# sent_id = Magalhaes1876:22:27:504
+# sent_id = Magalhaes1876:22:27:503
 # text_orig = Ahé	ocɨka	ramé	cộca	opé,	ocenoĩ	i	raɨíra,	onhehẽ ixupé:	— Reompú	ki xií	nẹ	mệna;	intí xa	putári ahé	ikệ;	omunũ ãna	xa	kái!
 # text_por_gloss = Ela	chegou	quando	sua casa	em,	chamou	sua	filha,	e disse-lhe:	— Toca	daqui	teu	marido;	não	o quero	aqui;	fez com que	 eu me	queimasse!
 

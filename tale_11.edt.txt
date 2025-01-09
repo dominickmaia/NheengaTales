@@ -1,99 +1,99 @@
 # title_orig = ÍAUTI	CAHAPORA-UAÇU'
 # title_por_orig = Jabuti e	Gigante
 
-# sent_id = Magalhaes1876:11:1:278
+# sent_id = Magalhaes1876:11:1:277
 # text_orig = Iautí	ocɨka	oiepé	mɨrá	quára	pé,	opeiú ãna	oíkộ	cẹ	mẹmɨ;
 # text_por_gloss = O jabuti	chegou	um	de árvore	buraco	em,	tocando	estava	sua	flauta;
 
-# sent_id = Magalhaes1876:11:2:279
+# sent_id = Magalhaes1876:11:2:278
 # text_orig = Cahapóra	ocẹnũn	onhehẽ:	— Intí	auá	nhahã	intí	Iautí.
 # text_por_gloss = Cahipora	ouviu	disse:	— Ninguém	é	aquele	senão	o jabuti.
 
-# sent_id = Magalhaes1876:11:3:280
+# sent_id = Magalhaes1876:11:3:279
 # text_orig = Xa	çộ	xa	picɨca	ahẽ.
 # text_por_gloss = Eu	vou	eu	apanhar	ele.
 
-# sent_id = Magalhaes1876:11:4:281
+# sent_id = Magalhaes1876:11:4:280
 # text_orig = Ocɨka	mɨrá	quára	okệna	ruakệ.
 # text_por_gloss = Chegou	da árvore	do buraco	porta	junto.
 
-# sent_id = Magalhaes1876:11:5:282
+# sent_id = Magalhaes1876:11:5:281
 # text_orig = Iautí	opeiú	cẹ	memɨ:	fin,	fin,	fin,	culộ	fom	fin.
 # text_por_gloss = O jabuti	tocou	sua	flauta:	fin,	fin,	fin,	culô	fom	fin.
 
-# sent_id = Magalhaes1876:11:6:283
+# sent_id = Magalhaes1876:11:6:282
 # text_orig = Cahapộra	ocenoĩ:	— Iautí?
 # text_por_gloss = Cahipora	chamou:	— Jabuti?
 
-# sent_id = Magalhaes1876:11:7:284
+# sent_id = Magalhaes1876:11:7:283
 # text_orig = Iautí	oçuaxára:	— U!	Iúri,	iautí,	iacộ	iáçậhã	ia	kirimáuaçáua.
 # text_por_gloss = O jabuti	respondeu:	— U!	Vem,	jabuti,	vamos	experimentar	nossa	força.
 
-# sent_id = Magalhaes1876:11:8:285
+# sent_id = Magalhaes1876:11:8:284
 # text_orig = Iautí	onhehẽ:	— Iaçộ	iaiuçahã	maí	rẹputári	iaué.
 # text_por_gloss = O jabuti	retorquiu:	— Vamos	nós experimentar	como	tu quiseres	assim.
 
-# sent_id = Magalhaes1876:11:9:286
+# sent_id = Magalhaes1876:11:9:285
 # text_orig = Cahapóra	oçộ	cahá	pe,	omunúca	xipó,	orúri	xipó	paraná	remeɨua	kẹtệ,	onhehẽ	iautí	çupé:	— Iaçã ãna,	iautí,	inệ	ɨpe;	ixệ	ɨuɨpe.
 # text_por_gloss = Cahipora	foi	mato	em,	cortou	cipó,	trouxe	cipó	do rio	beirada	à,	disse	jabuti	ao:	— Experimentemos,	jabuti,	tu	n'água;	eu	em terra.
 
-# sent_id = Magalhaes1876:11:10:287
+# sent_id = Magalhaes1876:11:10:286
 # text_orig = Iautí	onhehẽ:	— Rẹ,	Cahapóra.
 # text_por_gloss = O jabuti	disse:	— Bom,	Cahipora.
 
-# sent_id = Magalhaes1876:11:11:288
+# sent_id = Magalhaes1876:11:11:287
 # text_orig = Iautí	opúri	ɨpe	tupaçãma	irúmo,	ocộ	opuquára	tupaçãma	pirá-uaçú	ruáia	rẹcệ:
 # text_por_gloss = O jabuti	saltou	n'água	corda	com,	foi	amarrar	a corda	da baleia	cauda	sobre:
 
-# sent_id = Magalhaes1876:11:12:289
+# sent_id = Magalhaes1876:11:12:288
 # text_orig = Iautí	oiúɨre	ɨuɨ	kẹtệ,	oiumími	iaɨtɨua	uɨrape.
 # text_por_gloss = O jabuti	voltou	terra	para,	se escondeu	do cerrado	embaixo.
 
-# sent_id = Magalhaes1876:11:13:290
+# sent_id = Magalhaes1876:11:13:289
 # text_orig = Cahapóra	ocɨkí	tupaçãma;	Pirauaçú	oiumúquirimáu,	oraçộ	Cahapóra	iáiúra	rupí	catú	ɨpe.
 # text_por_gloss = Cahipora	puxou	a corda;	A baleia	fez força,	arrastou	o Cahipora	pescoço	pelo	até	água na.
 
-# sent_id = Magalhaes1876:11:14:291
+# sent_id = Magalhaes1876:11:14:290
 # text_orig = Cahapóra	oiúmúkirimáu,	omumúri	putári	catú	piráuaçú	ruáia	ɨuɨ	pè.
 # text_por_gloss = Cahipora	fez força,	por	queria	até	da baleia	a cauda	terra	em.
 
-# sent_id = Magalhaes1876:11:15:292
+# sent_id = Magalhaes1876:11:15:291
 # text_orig = Piráuaçú	oimúkirimáu	oraçộ	Cahapóra	iaiúra	rupí	catú	ɨpe.
 # text_por_gloss = A baleia	fez força	arrastou	Cahipora	pescoço	pelo	até	água.
 
-# sent_id = Magalhaes1876:11:16:293
+# sent_id = Magalhaes1876:11:16:292
 # text_orig = Iautí	iaɨtɨua	uɨrape,	omahã,	opucá	oikộ.
 # text_por_gloss = O jabuti	do cerrado	embaixo,	via,	rindo	estava.
 
-# sent_id = Magalhaes1876:11:17:294
+# sent_id = Magalhaes1876:11:17:293
 # text_orig = Cahapóra	imaraári	ãna	ramé,	onhehẽ:	— Aiãna,	iautí!
 # text_por_gloss = Cahipora	cansado	já	quando estava,	disse:	— Basta,	jabuti!
 
-# sent_id = Magalhaes1876:11:18:295
+# sent_id = Magalhaes1876:11:18:294
 # text_orig = Iautí	opucá,	opúri	ɨpe,	ocộ	oiuráu	tupaçãma	pirauaçú	ruáia	çuí.
 # text_por_gloss = O jabuti	riu-se	saltou	n'água,	foi	desatar	a corda	da baleia	cauda	da.
 
-# sent_id = Magalhaes1876:11:19:296
+# sent_id = Magalhaes1876:11:19:295
 # text_orig = Cahapóra	ocɨkệ	ahé	tupaçãma	irúmo.
 # text_por_gloss = O cahipora	puxou	ele	corda	com.
 
-# sent_id = Magalhaes1876:11:20:297
+# sent_id = Magalhaes1876:11:20:296
 # text_orig = Iautí	ocɨka	ɨuɨpe.
 # text_por_gloss = O jabuti	chegou	em terra.
 
-# sent_id = Magalhaes1876:11:21:298
+# sent_id = Magalhaes1876:11:21:297
 # text_orig = Cahapộra	opuranú	ixuí:	— Nẹ	maraári será,	iautí?
 # text_por_gloss = Cahipora	perguntou	dele:	— Tu	estás cansado,	jabuti?
 
-# sent_id = Magalhaes1876:11:22:299
+# sent_id = Magalhaes1876:11:22:298
 # text_orig = Iautí	oçuaxára:	—  Intimahan;	mahá	pahá	cẹrệái?
 # text_por_gloss = O jabuti	respondeu:	— Não,	que é	de que	eu suei?
 
-# sent_id = Magalhaes1876:11:23:300
+# sent_id = Magalhaes1876:11:23:299
 # text_orig = Cahapóra	onhehẽ:	— Cuhɨre,	çupí,	iautí,	xa	quauãna	inệ	apgáua	pɨre	cẹ	cuí.
 # text_por_gloss = Cahipora	disse:	— Agora,	certo,	jabuti,	eu	sei	que tu és	macho	mais	eu	do que.
 
-# sent_id = Magalhaes1876:11:24:301
+# sent_id = Magalhaes1876:11:24:300
 # text_orig = Xa	çoãna,	re.
 # text_por_gloss = Vou-me	embora,	adeus.
 
