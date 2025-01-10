@@ -1,127 +1,127 @@
 # title_orig = IÁUTI	MICURA
 # title_por_orig = Jabuti e	raposa
 
-# sent_id = Magalhaes1876:8:1:174
+# sent_id = Magalhaes1876:8:1:173
 # text_orig = Iáutí,	ipahá,	orẹkộ	iepé	memɨ;	oiepé	ára,	opeiú	ramé	oikộ	cẹ	memɨ,	mɨcúra	pahá	ocenũ	oçộ,	onhehẽ	iáutí	çupé: — Rẹpurú	ixệ	nẹ	memɨ?
 # text_por_gloss = Jabuti	dizem que	tinha	uma	flauta;	um	dia,	tocando	quando	estava	sua	flauta,	a raposa	dizem que	ouvir	foi,	e disse	jabuti	ao: — Empresta	me	tua	flauta?
 
-# sent_id = Magalhaes1876:8:2:175
+# sent_id = Magalhaes1876:8:2:174
 # text_orig = Iáutí	oçuaxára: — Ixệ	tio, (intí)	rẹmuiáuáu	arãma	cẹrẹmemɨ!
 # text_por_gloss = O jabuti	respondeu: — Eu	não,	fazeres fugir	para	a minha flauta!
 
-# sent_id = Magalhaes1876:8:3:176
+# sent_id = Magalhaes1876:8:3:175
 # text_orig = Mɨcúra	onhehẽ: — Aramé	rẹpẹiú,	iacẹnõ	arãma	nẹ	rẹmẹmɨ.
 # text_por_gloss = A raposa	disse: — Então	toque,	nós ouvirmos	para	tua	flauta.
 
-# sent_id = Magalhaes1876:8:4:177
+# sent_id = Magalhaes1876:8:4:176
 # text_orig = Iáutí	opẹiú	cẹ	memɨ	qaiệ:	fɨn,	fɨn,	fɨn,	fɨn,	culo fon,	fɨn.
 # text_por_gloss = O jabuti	tocou	sua	flauta	assim:	fin,	fin,	fin,	fin,	culo fon,	fin.
 
-# sent_id = Magalhaes1876:8:5:178
+# sent_id = Magalhaes1876:8:5:177
 # text_orig = Mɨcúra	onhehẽ:	— Maí	ipurã rẹtệ	inẹ	nẹ	rẹmẹmɨ	irúmo,	iáutí!
 # text_por_gloss = A raposa	disse:	— Como	formosíssimo	é você	tua	flauta	com,	jabuti!
 
-# sent_id = Magalhaes1876:8:6:179
+# sent_id = Magalhaes1876:8:6:178
 # text_orig = Epurú	xínga	ixệ	arãma.
 # text_por_gloss = Empresta	um pouco	mim	a.
 
-# sent_id = Magalhaes1876:8:7:180
+# sent_id = Magalhaes1876:8:7:179
 # text_orig = Iáutí	onhehẽ: — Repɨcɨka!
 # text_por_gloss = O jabuti	disse: — Tome!
 
-# sent_id = Magalhaes1876:8:8:181
+# sent_id = Magalhaes1876:8:8:180
 # text_orig = Tenhẽ	rẹraçộ	cẹrẹmemɨ;	rẹũiậna ramé,	xa	iapí	nẹ	cupépe	quahá	iráitĩ.
 # text_por_gloss = Agora não	leves	minha flauta;	se correres,	eu	atiro	tua	costa na	esta	cera.
 
-# sent_id = Magalhaes1876:8:9:182
+# sent_id = Magalhaes1876:8:9:181
 # text_orig = Mɨcúra	opɨcɨka,	opeiú	iáutí	rẹmẹmɨ;	oçahận	opuraçậin,	uacệma	ipurãn	rẹtệ;	unhãna ãna	mẹmɨ	irúmo.
 # text_por_gloss = A raposa	tomou,	e tocou	do jabuti	a flauta;	experimentou	dançar,	achou	bonito	muitíssimo;	correu	a flauta	com.
 
-# sent_id = Magalhaes1876:8:10:183
+# sent_id = Magalhaes1876:8:10:182
 # text_orig = Iáutí	unhãna	çakẹquéra:	maí	timahã	unhãna;	cenápẹ	te	pahá	oiuɨ	ɨúre	oikộ;	aramé	onhehẽ: — Tenupá,	mɨcúra!
 # text_por_gloss = O jabuti	correu	atrás:	mas	não	correu;	lugar	no mesmo	dizem que	volta	voltando	estava;	então	disse: — Deixa estar,	raposa!
 
-# sent_id = Magalhaes1876:8:11:184
+# sent_id = Magalhaes1876:8:11:183
 # text_orig = Curumirínte	xa	pɨcɨka curí	inệ.
 # text_por_gloss = Daqui a pouco	eu	apanharei	você.
 
-# sent_id = Magalhaes1876:8:12:185
+# sent_id = Magalhaes1876:8:12:184
 # text_orig = Iáutí	oçộãna	cahá	rupí,	ocɨka	paraná	remẽhɨpe,	omunúca	mɨrá	omunhã	arãma	mɨtá,	oiaçáu	arãma	i ári	rupí;	ocɨka	çuaindápe,	oiúpíri,	omunúca	íra	mɨra,	oiuúca	mɨrá	íra,	oiuɨri ãna	çakaquệra	kẹtệ,	ocɨka	mɨcúra	rapé	pé,	oiatɨcaɨ	ĩ	akãin (akanga)	ɨuɨ	pe,	opɨcɨka	mɨra	ira,	omumúri	xiquára	pé.
 # text_por_gloss = O jabuti	foi	bosque	pelo,	chegou	do rio	margem a,	cortou	madeira	fazer	para	ponte	atravessar	para	cima	por;	chegou	outra margem	na, atrepou,	cortou	de mel	árvore,	tirou	de pau	mel,	voltou	atrás	para,	chegou	da raposa	caminho	no,	afincou	sua	cabeça	chão	no,	pegou	de pau	o mel,	ungiu		.
 
-# sent_id = Magalhaes1876:8:13:186
+# sent_id = Magalhaes1876:8:13:185
 # text_orig = Cupucú	xingậntẽ	mɨcúra	ocɨka	aápe,	omahã	nhahã	ɨ	rẹcệ;	cɨnɨpúca	purãin	nhahã	ɨ!
 # text_por_gloss = Daqui a	pouco	a raposa	chegou	ali,	e olhou	aquela	água	sobre;	lustrosa	e bonita	que era aquela	água.
 
-# sent_id = Magalhaes1876:8:14:187
+# sent_id = Magalhaes1876:8:14:186
 # text_orig = Mɨcúra	onhehẽ:	Ih...	mãháta	tecuaha?
 # text_por_gloss = A raposa	disse:	Ih...	o que será	isto?
 
-# sent_id = Magalhaes1876:8:15:188
+# sent_id = Magalhaes1876:8:15:187
 # text_orig = Ariré	omundệo	i	dedo,	ocerệu	onhehẽ: — Hi...	i...	i...	íra	quahá!
 # text_por_gloss = Depois	enfiou	seu	dedo,	lambeu	e disse: — Hi...	i...	i...	mel	é isto!
 
-# sent_id = Magalhaes1876:8:16:189
+# sent_id = Magalhaes1876:8:16:188
 # text_orig = Amú	mɨcúra	onhehẽ: — Mãhận!	íra	nhahã?
 # text_por_gloss = Outra	raposa	observou: — Que!	mel	aquilo?
 
-# sent_id = Magalhaes1876:8:17:190
+# sent_id = Magalhaes1876:8:17:189
 # text_orig = Anhen!	Iáutí	riquára	nhahã,	maí	tahá?
 # text_por_gloss = Qual!	Do jabuti é	...	aquilo,	como	então?
 
-# sent_id = Magalhaes1876:8:18:191
+# sent_id = Magalhaes1876:8:18:190
 # text_orig = Amú	oçuaxára: — Mahã	iáutí	riquára	quahá!
 # text_por_gloss = A outra	respondeu: — Que	de jabuti	...	isso!
 
-# sent_id = Magalhaes1876:8:19:192
+# sent_id = Magalhaes1876:8:19:191
 # text_orig = íra	quahá,	mai	tahá?
 # text_por_gloss = mel	é isso,	como	então?
 
-# sent_id = Magalhaes1876:8:20:193
+# sent_id = Magalhaes1876:8:20:192
 # text_orig = Oiucɨ	rẹtệ	ãna,	omundệo ãna	i	apecõ	i pupé.
 # text_por_gloss = Sedenta	muito	estava,	introduziu	sua	língua	nele.
 
-# sent_id = Magalhaes1876:8:21:194
+# sent_id = Magalhaes1876:8:21:193
 # text_orig = Iáutí	oiuɨca	xi	quára;	mɨcúra	oçacệma: — Rẹxári	cẹ	apecõ, (apecộn)	iáutí!
 # text_por_gloss = O jabuti	apertou	seu	...;	a raposa	gritou: — Deixa	a minha	língua,	ó jabuti!
 
-# sent_id = Magalhaes1876:8:22:195
+# sent_id = Magalhaes1876:8:22:194
 # text_orig = Amú	onhehẽ: — Mãháta	xa	nhehẽ	indệ	arãma?
 # text_por_gloss = A outra	disse: — O que	eu	disse	ti	para?
 
-# sent_id = Magalhaes1876:8:23:196
+# sent_id = Magalhaes1876:8:23:195
 # text_orig = Iáutí	riquára	nhahã	xa	nhehẽ	ra	pahá	nẹ	arãma:	inệ	rẹnhehẽ:	— Ira	quahá,	maí	tahá?
 # text_por_gloss = De jabuti	...	isso	eu	disse	que	era	ti	a:	tu	dissestes:	— Mel	é isto,	como	então?
 
-# sent_id = Magalhaes1876:8:24:197
+# sent_id = Magalhaes1876:8:24:196
 # text_orig = Iáutí	qaiệ	onhehẽ:	— Han!	han!	mãháta	xa	nhehẽ	inệ	arãma?
 # text_por_gloss = O jabuti	então	disse:	— Han!	han!	o que	eu	disse	você	a?
 
-# sent_id = Magalhaes1876:8:25:198
+# sent_id = Magalhaes1876:8:25:197
 # text_orig = Mãháta	intí	xa	pɨcɨka	inệ?
 # text_por_gloss = Cadê que	não	eu	apanhei	te?
 
-# sent_id = Magalhaes1876:8:26:199
+# sent_id = Magalhaes1876:8:26:198
 # text_orig = Inệ,	pahá,	oquáu	rẹtệ,	mɨcúra!
 # text_por_gloss = Tu,	dizem,	esperta és	muitíssimo,	raposa!
 
-# sent_id = Magalhaes1876:8:27:200
+# sent_id = Magalhaes1876:8:27:199
 # text_orig = Mahápa ahé	cẹrẹmemɨ?
 # text_por_gloss = Que é	da minha flauta?
 
-# sent_id = Magalhaes1876:8:28:201
+# sent_id = Magalhaes1876:8:28:200
 # text_orig = Mɨcúra	oçuaxára:	— Intimahã	xa	rẹkộ,	iáutí.
 # text_por_gloss = A raposa	respondeu:	— Não	eu	tenho,	jabuti.
 
-# sent_id = Magalhaes1876:8:29:202
+# sent_id = Magalhaes1876:8:29:201
 # text_orig = Iáuti	onhehẽ:	— Rẹrẹkộ,	maí	tahá?
 # text_por_gloss = O jabuti	disse:	— Tu tens,	como	então?
 
-# sent_id = Magalhaes1876:8:30:203
+# sent_id = Magalhaes1876:8:30:202
 # text_orig = Erúri,	erúri,	curutẽ,	curumũ	xa	iuɨca	rẹtệ.
 # text_por_gloss = Trazes,	trazes,	já,	senão	eu	aperto	muitíssimo.
 
-# sent_id = Magalhaes1876:8:31:204
+# sent_id = Magalhaes1876:8:31:203
 # text_orig = Mɨcúra	omehẽ	cẹ	memɨ	uậna.
 # text_por_gloss = A raposa	entregou	sua	flauta	já.
 

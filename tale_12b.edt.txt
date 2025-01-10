@@ -1,59 +1,59 @@
 # title_orig = ÇUAÇU	IAUARAETÉ	II
 # title_por_orig = O vendo e	a onça	II
 
-# sent_id = Magalhaes1876:12b:1:331
+# sent_id = Magalhaes1876:12b:1:330
 # text_orig = Çuaçú oçộ opɨtá arãma iauára róca upé.
 # text_por_gloss = O veado foi morar em companhia do cachorro.
 
-# sent_id = Magalhaes1876:12b:2:332
+# sent_id = Magalhaes1876:12b:2:331
 # text_orig = Amú acaiú upé, iauáratệ ocɨka iúɨri iauára róça úpe, opɨtậ arãma ahé irúmo.
 # text_por_gloss = Passado muito tempo, a onça também foi morar lá, porque o veado já havia esquecido dela.
 
-# sent_id = Magalhaes1876:12b:3:333
+# sent_id = Magalhaes1876:12b:3:332
 # text_orig = A itá oçộ cahamunũ.
 # text_por_gloss = No outro dia foram caçar.
 
-# sent_id = Magalhaes1876:12b:4:334
+# sent_id = Magalhaes1876:12b:4:333
 # text_orig = Iauaratệ opɨcɨka putári iauára, oiucá arãma áhé.
 # text_por_gloss = A onça queria pegar o cachorro.
 
-# sent_id = Magalhaes1876:12b:5:335
+# sent_id = Magalhaes1876:12b:5:334
 # text_orig = Iauára oiuɨre ramé, caarúca ramé, orúri ximiára-mirĩ-itá: acutí, páca, tatú, inanbú.
 # text_por_gloss = O cachorro de tarde, quando voltou, trouxe caça pequena, cutia, paca, tatu e inhambu.
 
-# sent_id = Magalhaes1876:12b:6:336
+# sent_id = Magalhaes1876:12b:6:335
 # text_orig = Aitá óú ãna, ariré aitá oçộ ouímuçaraĩ.
 # text_por_gloss = Jantaram e depois de jantar foram jogar.
 
-# sent_id = Magalhaes1876:12b:7:337
+# sent_id = Magalhaes1876:12b:7:336
 # text_orig = Iauaratệ oíumuçaráĩ ramé, onhehẽ: — Intí xa pɨcɨka quáu mahã xa cahamunũ xa ikộ.
 # text_por_gloss = A onça jogava e dizia: — O que eu cacei não pude pegar.
 
-# sent_id = Magalhaes1876:12b:8:338
+# sent_id = Magalhaes1876:12b:8:337
 # text_orig = Iauára oiumuçaraĩ ramé, onhehẽ: — Auá orekộ cetimã iatúca intí cahamunũ quáu.
 # text_por_gloss = O cachorro jogava e dizia: — Quem tem perna curta não deve caçar.
 
-# sent_id = Magalhaes1876:12b:9:339
+# sent_id = Magalhaes1876:12b:9:338
 # text_orig = Aitá omuçaraĩ ramé iaué, iauaratệ opúri iauára rẹcệ; iauára, çuaçú, oiauáu ãna; iauaratệ opicɨka ramé çuaçú, quahá oiệrệo itá arãma.
 # text_por_gloss = Assim jogaram até que a onça saltou no cachorro, o cachorro e o veado fugiram, a onça seguiu atrás e, quando pegou o veado, este virou pedra.
 
-# sent_id = Magalhaes1876:12b:10:340
+# sent_id = Magalhaes1876:12b:10:339
 # text_orig = Iauára oiaçáu çuá indá kẹtệ, onhehẽ iauaratệ çupé: — Rệu putári ramé ixệ, rẹiapí nhahã itá cẹ rẹcệ.
 # text_por_gloss = O cachorro atravessou um rio, e disse para a onça: — Agora se queres me pegar, só se me jogares uma pedra.
 
-# sent_id = Magalhaes1876:12b:11:341
+# sent_id = Magalhaes1876:12b:11:340
 # text_orig = Iauaratệ opɨcɨka itá; oiapí iauára rẹcệ.
 # text_por_gloss = A onça agarrou na pedra e jogou.
 
-# sent_id = Magalhaes1876:12b:12:342
+# sent_id = Magalhaes1876:12b:12:341
 # text_orig = Itá oári ramé amú çuaxára ápe, oçaçẽma: — Mé!...
 # text_por_gloss = Quando a pedra caiu na outra banda gritou: — Mé!...
 
-# sent_id = Magalhaes1876:12b:13:343
+# sent_id = Magalhaes1876:12b:13:342
 # text_orig = Oiệrệo iuɨre çuaçú arãma.
 # text_por_gloss = E virou outra vez em veado.
 
-# sent_id = Magalhaes1876:12b:14:344
+# sent_id = Magalhaes1876:12b:14:343
 # text_orig = A çui iauára opɨtá iauraté ruãĩậna arãma.
 # text_por_gloss = Foi daí que gerou-se a raiva do cachorro contra a onça.
 

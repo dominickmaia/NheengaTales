@@ -1,163 +1,163 @@
 # title_orig = IAUTI	APGAUA
 # title_por_orig = Jabuti e o	homem
 
-# sent_id = Magalhaes1876:10:1:237
+# sent_id = Magalhaes1876:10:1:236
 # text_orig = Iáutí	ocɨka	tipɨáia	opé,	opeiú	oikộ	cẹ	mẹmĩ.
 # text_por_gloss = Jabuti	chegou	covão	no,	assoprando	estava	sua	flauta.
 
-# sent_id = Magalhaes1876:10:2:238
+# sent_id = Magalhaes1876:10:2:237
 # text_orig = Míra itá	oçaçáu	oikộ	uahá,	ocenũ.
 # text_por_gloss = As gentes	passando	estavam	que,	ouviam.
 
-# sent_id = Magalhaes1876:10:3:239
+# sent_id = Magalhaes1876:10:3:238
 # text_orig = Oiepé	apgáua	onhehẽ:	— Xa	çộ	xa	pɨcɨka	nhahã	iáutí.
 # text_por_gloss = Um	homem	disse:	— Eu	vou	eu	apanhar	aquele	jabuti.
 
-# sent_id = Magalhaes1876:10:4:240
+# sent_id = Magalhaes1876:10:4:239
 # text_orig = Ocɨca	tɨpɨáia	opé,	ocenõĩ:	— O'	iáutí!
 # text_por_gloss = Chegou	covão	no,	chamou:	— O'	jabuti!
 
-# sent_id = Magalhaes1876:10:5:241
+# sent_id = Magalhaes1876:10:5:240
 # text_orig = Iáutí	oçuaxára:	— U!
 # text_por_gloss = O jabuti	respondeu:	— U!
 
-# sent_id = Magalhaes1876:10:6:242
+# sent_id = Magalhaes1876:10:6:241
 # text_orig = Apgáua	onhehẽ:	— Iúri,	iáutí!
 # text_por_gloss = O homem	disse:	—Venha,	jabuti.
 
-# sent_id = Magalhaes1876:10:7:243
+# sent_id = Magalhaes1876:10:7:242
 # text_orig = Erệ,	aiqué,	xa	çộ.
 # text_por_gloss = Pois bem,	aqui estou,	eu	vou.
 
-# sent_id = Magalhaes1876:10:8:244
+# sent_id = Magalhaes1876:10:8:243
 # text_orig = Iáutí	ocệma,	apgáua 	opɨcɨka	ahé,	oraçộ ãna	ộca	kẹtệ,	ocɨka	ramé	ộca	opé,	ocɨkɨnáu	iáutí	patuá	pupé.
 # text_por_gloss = O jabuti	saiu,	o homem	apanhou	ele,	levou-o	casa	para,	chegou	quando	casa	em,	trancou	o jabuti	caixa	dentro da.
 
-# sent_id = Magalhaes1876:10:9:245
+# sent_id = Magalhaes1876:10:9:244
 # text_orig = Coệma	ramé,	apgáua	onhehẽ	taína itá	çupé:	— Tenhện	pepirári	iáutí;	oçộ uãna	cupixáua	kẹtệ.
 # text_por_gloss = Manhã	sendo	o homem	disse	meninos	aos:	— Agora não	soltem vocệs	o jabuti;	foi-se	roça	para.
 
-# sent_id = Magalhaes1876:10:10:246
+# sent_id = Magalhaes1876:10:10:245
 # text_orig = Iáutí	patuá	quára	opé,	opeiú	oikộ	cẹ	mệmĩ.
 # text_por_gloss = O jabuti	da caixa	dentro	em,	tocando	estava	sua	flauta.
 
-# sent_id = Magalhaes1876:10:11:247
+# sent_id = Magalhaes1876:10:11:246
 # text_orig = Taɨna itá	ocenũ,	oúri	oɨapɨçáca	arãma.
 # text_por_gloss = Os meninos	ouvem,	vem	escutar	para.
 
-# sent_id = Magalhaes1876:10:12:248
+# sent_id = Magalhaes1876:10:12:247
 # text_orig = Iáuti	okirirí.
 # text_por_gloss = O jabuti	calou-se.
 
-# sent_id = Magalhaes1876:10:13:249
+# sent_id = Magalhaes1876:10:13:248
 # text_orig = A çuí	taína itá	onhehẽ:	— Rệpeiú,	iáuti!
 # text_por_gloss = Daí	os meninos	disseram:	— Assopra,	jabuti!
 
-# sent_id = Magalhaes1876:10:14:250
+# sent_id = Magalhaes1876:10:14:249
 # text_orig = Iáutí	oçuaxára:	— Penhệ	peuacệma	puraĩ	catú;	mamétè	uacệmo	catú	pexipiá	ramé,	xa	puraçậín!...
 # text_por_gloss = O jabuti	respondeu:	— Vocệs	acham	bonito	muito;	como não	achariam	belo	vocệs vissem	se,	eu	dançar!...
 
-# sent_id = Magalhaes1876:10:15:251
+# sent_id = Magalhaes1876:10:15:250
 # text_orig = Taína itá	opirári	patuá,	omahã	arãma	iáutí	opuraçậin.
 # text_por_gloss = Os meninos	abrem	a caixa,	ver	para o	jabuti	dançar.
 
-# sent_id = Magalhaes1876:10:16:252
+# sent_id = Magalhaes1876:10:16:251
 # text_orig = Iáutí	opuraçậin	ocapɨ	rupí:	tum,	tum!	tum,	tum!	tum,	tum;	tum,	tum;	tein!
 # text_por_gloss = O jabuti	dança	quarto	pelo:	tum,	tum!	tum,	tum!	tum,	tum;	tum,	tum;	tein!
 
-# sent_id = Magalhaes1876:10:17:253
+# sent_id = Magalhaes1876:10:17:252
 # text_orig = Açui	iáutí	oieruré	taína	çuí,	oçộ	ocarúca	arãma.
 # text_por_gloss = Daí	o jabuti	pediu	meninos	dos,	ir	urinar	para.
 
-# sent_id = Magalhaes1876:10:18:254
+# sent_id = Magalhaes1876:10:18:253
 # text_orig = Taína	onhehẽ 	ixupé:	— Ecoín,	iáutí;	tenhẽn	reiáuáu.
 # text_por_gloss = Meninos	disseram	a ele:	— Vá,	jabuti;	agora	não fujas.
 
-# sent_id = Magalhaes1876:10:19:255
+# sent_id = Magalhaes1876:10:19:254
 # text_orig = Iáutí	ocệma	ộca	cupé	kẹtệ,	unhậna	oiumími	tɨpɨáia	pɨtệrape.
 # text_por_gloss = O jabuti	sai	de casa	atrás	para,	correu	escondeu-se	do cerrado	meio em.
 
-# sent_id = Magalhaes1876:10:20:256
+# sent_id = Magalhaes1876:10:20:255
 # text_orig = Aramé	taína itá	onhehẽ:	— Iáutí	oiáuáuãna.
 # text_por_gloss = Então	meninos	disseram:	— Jabuti	fugiu.
 
-# sent_id = Magalhaes1876:10:21:257
+# sent_id = Magalhaes1876:10:21:256
 # text_orig = Oiepé	aitá çuí	onhehẽ:	— Cuhɨre	taté	curí?
 # text_por_gloss = Um	deles	disse:	— Agora	como há de	ser?
 
-# sent_id = Magalhaes1876:10:22:258
+# sent_id = Magalhaes1876:10:22:257
 # text_orig = Mãi	tahá	curí	onhehẽ	ianệ	rúba	çupệ,	ocɨka curí	ramé?
 # text_por_gloss = Como	é que	havemos	de falar	nosso	pai	a,	chegar	quando?
 
-# sent_id = Magalhaes1876:10:23:259
+# sent_id = Magalhaes1876:10:23:258
 # text_orig = Iaçộ	iaquatíára	iepé	itá	iáutí	pirệra	pinimaçáua	iauè;	curumú	ocɨka curí	ramé	onupận curí ianệ.
 # text_por_gloss = Vamos	pintar	uma	pedra	do jabuti	do casco	a pinta	como a;	se não,	ele chegar	quando,	bater-nos-á.
 
-# sent_id = Magalhaes1876:10:24:260
+# sent_id = Magalhaes1876:10:24:259
 # text_orig = Iaué	tenhẽn	aitá	omunhã.
 # text_por_gloss = Assim	mesmo	eles	fazem.
 
-# sent_id = Magalhaes1876:10:25:261
+# sent_id = Magalhaes1876:10:25:260
 # text_orig = Caarúca ramé	aitá	rúba	ocɨka,	onhehẽ	aitá	çupé:	— Pemuapɨca	itanhaẽ	tatá	pe,	iapirúca	arãma	iáutí.
 # text_por_gloss = De tarde	deles	o pai	chega,	diz	eles	a:	— Ponham	a panela	fogo	em,	descascarmos	para	o jabuti.
 
-# sent_id = Magalhaes1876:10:26:262
+# sent_id = Magalhaes1876:10:26:261
 # text_orig = Aitá	onhehẽ:	— Aiquãna	tatá	pé.
 # text_por_gloss = Eles	disseram:	— Está já	fogo	no.
 
-# sent_id = Magalhaes1876:10:27:263
+# sent_id = Magalhaes1876:10:27:262
 # text_orig = Túba	ombúri ãna	itá	quatiára	itanhaen	pupé,	omaité	iáutí	quahá.
 # text_por_gloss = O pai	pộs	a pedra	pintada	panela	na,	pensa	jabuti	ser isso.
 
-# sent_id = Magalhaes1876:10:28:264
+# sent_id = Magalhaes1876:10:28:263
 # text_orig = Ariré	onhehẽ	aitá	çupé:	— Peiúúca	itanhaẽ mirĩ	ia	ú	arãma	iáutí.
 # text_por_gloss = Depois	disse	eles	a:	— Vocệs tirem	pratos	nós	comermos	para	o jabuti.
 
-# sent_id = Magalhaes1876:10:29:265
+# sent_id = Magalhaes1876:10:29:264
 # text_orig = Taína itá	oraçộ ãna.
 # text_por_gloss = Os meninos	levaram-nos.
 
-# sent_id = Magalhaes1876:10:30:266
+# sent_id = Magalhaes1876:10:30:265
 # text_orig = Túba	oiuúca	iáutí	itanhahẽ	çuí,	ombúri	ramé	itanhahẽ mirĩ	upé,	omupúca ãna	ahé.
 # text_por_gloss = O pai	tirou	jabuti	panela	da,	pộs	quando	prato	no,	quebrou	ele.
 
-# sent_id = Magalhaes1876:10:31:267
+# sent_id = Magalhaes1876:10:31:266
 # text_orig = Túba	onhehẽ	taína itá	çupé:	— Penhẽ	pexári será	iáutí	oiáuáu?
 # text_por_gloss = O pai	disse	meninos	aos:	— Vocệs	deixaram	o jabuti	fugir?
 
-# sent_id = Magalhaes1876:10:32:268
+# sent_id = Magalhaes1876:10:32:267
 # text_orig = A itá	onhehẽ:	— Intimahã!
 # text_por_gloss = Eles	disseram:	— Não!
 
-# sent_id = Magalhaes1876:10:33:269
+# sent_id = Magalhaes1876:10:33:268
 # text_orig = A itá	onhehẽ	ramé	cẹcệ,	iáutí	opẹiú	cẹ	memɨ.
 # text_por_gloss = Eles	falavam	quando	sobre isso,	o jabuti	assoprou	sua	flauta.
 
-# sent_id = Magalhaes1876:10:34:270
+# sent_id = Magalhaes1876:10:34:269
 # text_orig = Apgáua	ocenõ	ramé,	onhehẽ:	— Xa	çộ	xa	pɨcɨka	iuɨre	ahé.
 # text_por_gloss = O homem	ouviu	quando,	disse:	— Eu	vou	eu	apanhar	de novo	ele.
 
-# sent_id = Magalhaes1876:10:35:271
+# sent_id = Magalhaes1876:10:35:270
 # text_orig = Ocộ,	ocenộĩ:	— O iáutí!
 # text_por_gloss = Foi,	chamou:	— O jabuti!
 
-# sent_id = Magalhaes1876:10:36:272
+# sent_id = Magalhaes1876:10:36:271
 # text_orig = Iáuti	oçuaxára: 	— U!
 # text_por_gloss = O jabuti	respondeu: 	— U!
 
-# sent_id = Magalhaes1876:10:37:273
+# sent_id = Magalhaes1876:10:37:272
 # text_orig = Apgáua	oçộ	ocɨkári	iaɨtɨua	uɨrpe	rupí.
 # text_por_gloss = O homem	foi	procurar	cerrado	baixo	por.
 
-# sent_id = Magalhaes1876:10:38:274
+# sent_id = Magalhaes1876:10:38:273
 # text_orig = Ocenộĩ:	— Iúre,	iáutí!
 # text_por_gloss = Chamou:	— Vem,	jabuti!
 
-# sent_id = Magalhaes1876:10:39:275
+# sent_id = Magalhaes1876:10:39:274
 # text_orig = Ahé	ocenộĩ ramé	amú	çuáxára	çuí,	iáutí	oçuaxára	çacaquệra	çuí.
 # text_por_gloss = Ele	chamava	uma	banda	de,	jabuti	respondia	atrás	de.
 
-# sent_id = Magalhaes1876:10:40:276
+# sent_id = Magalhaes1876:10:40:275
 # text_orig = Apgáua	oikerệ,	oiúɨri,	oxári	ahé.
 # text_por_gloss = O homem	aborreceu-se,	voltou,	deixou	ele.
 
